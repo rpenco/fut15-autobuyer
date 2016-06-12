@@ -1,0 +1,19 @@
+{
+    "name": "fut/request-forge",
+    "description": "Request forge for Fifa Ultimate Team.",
+    "authors": [
+        {
+            "name": "Eduard Bess",
+            "email": "eduard.bess@gmail.com"
+        }
+    ],
+    "license": "MIT",
+    "autoload": {
+        "psr-0" : {
+            "Fut" : "src"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "4.1.*"
+    }
+}

@@ -1,0 +1,136 @@
+@CHARSET "ISO-8859-1";
+html, body {
+    background: url(wallpaper.png) center no-repeat #FEFEFE;
+    background-size: cover;
+}
+h2 {
+    font-size: 50px;
+    font-family: Arial;
+    color: #FFF;
+    text-shadow: 2px 0 0 #AAA, -2px 0 0 #AAA, 0 2px 0 #AAA, 0 -2px 0 #AAA, 1px 1px #AAA, -1px -1px 0 #AAA, 1px -1px 0 #AAA, -1px 1px 0 #AAA;
+    margin-left: 100px;
+}
+.button {
+    text-decoration: none;
+    background: #CCC;
+    border-radius: 4px;
+    color: #333;
+    padding: 10px;
+    display: inline-block;
+    margin: 5px;
+}
+.button:hover {
+    text-decoration: none;
+    background: #BBB;
+    border-radius: 4px;
+    color: #333;
+    padding: 10px;
+}
+
+/****** Players ****/
+
+.scroll {
+    height: 755px;
+    overflow: auto;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+    border-top: 5px solid #666;
+    background: #FFF;
+}
+.container {
+    background: #AAA;
+    margin: 5px;
+    display: inline-block;
+    width: 500px;
+    padding: 10px;
+}
+.container .name {
+    font-size: 20px;
+    font-family: Arial;
+    color: #FFF;
+    text-shadow: 2px 0 0 #AAA, -2px 0 0 #AAA, 0 2px 0 #AAA, 0 -2px 0 #AAA, 1px 1px #AAA, -1px -1px 0 #AAA, 1px -1px 0 #AAA, -1px 1px 0 #AAA;
+}
+.container .skills {
+    font-size: 14px;
+    font-family: Arial;
+    color: #333;
+    text-shadow: 2px 0 0 #AAA, -2px 0 0 #AAA, 0 2px 0 #AAA, 0 -2px 0 #AAA, 1px 1px #AAA, -1px -1px 0 #AAA, 1px -1px 0 #AAA, -1px 1px 0 #AAA;
+}
+
+/****** Autobuyer ****/
+
+.log {
+    background: #CCC;
+    margin: 2px;
+    padding: 5px;
+    font-family: arial;
+    font-size: 13px;
+}
+.log-verb {
+    background: #dfeeff;
+}
+.log-debg {
+    background: #fefefe;
+}
+.log-info {
+    background: #dfffe1;
+}
+.log-warn {
+    background: #fefee0;
+}
+.log-erro {
+    background: #ffe0df;
+}
+
+/****** Param�tres ****/
+
+th {
+    color: #FFF;
+    font-size: 14px;
+    font-family: Arial;
+    padding: 0 50px;
+}
+td {
+    text-align: center;
+}
+.title {
+    text-align: left;
+    padding: 30px 0;
+    font-size: 18px;
+    text-decoration: underline;
+}
+input[type=checkbox].css-checkbox {
+    position: absolute;
+    z-index: -1000;
+    left: -1000px;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    width: 1px;
+    margin: -1px;
+    padding: 0;
+    border: 0;
+}
+input[type=checkbox].css-checkbox+ label.css-label {
+    padding-left: 27px;
+    height: 22px;
+    display: inline-block;
+    line-height: 22px;
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    font-size: 22px;
+    vertical-align: middle;
+    cursor: pointer;
+}
+input[type=checkbox].css-checkbox:checked+ label.css-label {
+    background-position: 0 -22px;
+}
+label.css-label {
+    background-image: url(http://csscheckbox.com/checkboxes/u/csscheckbox_b8670e397159419c04208e1a54ed6831.png);
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}

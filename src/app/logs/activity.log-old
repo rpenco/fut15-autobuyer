@@ -1,0 +1,997 @@
+2015-01-16 19:49:31 [info] ====== Connexion réussie. [Credits: 8867]
+2015-01-16 19:49:36 [info] 6 joueurs sous-côtés trouvés.
+2015-01-16 19:49:36 [debu] Estimation bénef.: 8, tradeId: 152710260732, startingBid: 600, currentBid: 0, buyNowPrice: 650, nextBid: 600, discardValue: 608, expire: 59
+2015-01-16 19:49:36 [debu] Estimation bénef.: 8, tradeId: 152710272511, startingBid: 600, currentBid: 0, buyNowPrice: 700, nextBid: 600, discardValue: 608, expire: 63
+2015-01-16 19:49:36 [debu] Estimation bénef.: 8, tradeId: 152704683180, startingBid: 600, currentBid: 0, buyNowPrice: 700, nextBid: 600, discardValue: 608, expire: 65
+2015-01-16 19:49:36 [debu] Estimation bénef.: 16, tradeId: 152710264542, startingBid: 600, currentBid: 0, buyNowPrice: 700, nextBid: 600, discardValue: 616, expire: 71
+2015-01-16 19:49:36 [debu] Estimation bénef.: 24, tradeId: 152710282415, startingBid: 600, currentBid: 0, buyNowPrice: 650, nextBid: 600, discardValue: 624, expire: 73
+2015-01-16 19:49:36 [info] Quick buy réussi... attente fin des enchères.
+2015-01-16 19:49:37 [debu] Estimation bénef.: 8, tradeId: 152704686494, startingBid: 600, currentBid: 0, buyNowPrice: 700, nextBid: 600, discardValue: 608, expire: 74
+2015-01-16 19:49:37 [info] Quick buy réussi... attente fin des enchères.
+2015-01-16 19:49:39 [info] ====== Crédit: [8867 points], Disponible: [3867 points]
+2015-01-16 19:49:39 [info] Sous-cote - Achat - tradeId: 152710297782, Prix max: 650, nextBid: 650, startingBid: 150, currentBid: 600, buyNowPrice: 0, discardValue: 656, expires: 69
+2015-01-16 19:49:40 [info] Sous-cote - Achat - tradeId: 152710258172, Prix max: 650, nextBid: 650, startingBid: 150, currentBid: 600, buyNowPrice: 0, discardValue: 656, expires: 61
+2015-01-16 19:49:40 [info] Sous-cote - Achat - tradeId: 152710310834, Prix max: 650, nextBid: 650, startingBid: 150, currentBid: 600, buyNowPrice: 900, discardValue: 656, expires: 85
+2015-01-16 19:49:42 [info] Remis en vente - tradeId: 152710088744, startingBid: 1000, buyNowPrice: 1400, discardValue: 656
+2015-01-16 19:49:42 [info] Remis en vente - tradeId: 152710030784, startingBid: 1000, buyNowPrice: 1400, discardValue: 656
+2015-01-16 19:49:42 [info] Remis en vente - tradeId: 152710079575, startingBid: 1000, buyNowPrice: 1400, discardValue: 656
+2015-01-16 19:49:42 [info] ====== Termine.
+2015-01-16 19:51:27 [info] Configuration mise à jour: enable: 0, allow_quick: 1, allow_trade: 1, allow_sold: 1, allow_quick_buy: 1, allow_trade_buy: 1.
+2015-01-16 19:51:29 [info] Configuration mise à jour: enable: 0, allow_quick: 0, allow_trade: 1, allow_sold: 1, allow_quick_buy: 1, allow_trade_buy: 1.
+2015-01-16 19:51:30 [info] Configuration mise à jour: enable: 0, allow_quick: 0, allow_trade: 0, allow_sold: 1, allow_quick_buy: 1, allow_trade_buy: 1.
+2015-01-16 19:51:31 [info] Configuration mise à jour: enable: 0, allow_quick: 0, allow_trade: 0, allow_sold: 0, allow_quick_buy: 1, allow_trade_buy: 1.
+2015-01-16 19:51:32 [info] Configuration mise à jour: enable: 0, allow_quick: 1, allow_trade: 0, allow_sold: 0, allow_quick_buy: 1, allow_trade_buy: 1.
+2015-01-16 19:51:33 [info] Configuration mise à jour: enable: 0, allow_quick: 1, allow_trade: 1, allow_sold: 0, allow_quick_buy: 1, allow_trade_buy: 1.
+2015-01-16 19:51:34 [info] Configuration mise à jour: enable: 0, allow_quick: 1, allow_trade: 1, allow_sold: 1, allow_quick_buy: 1, allow_trade_buy: 1.
+2015-01-16 19:51:35 [warn] L'autobuyer est désactivé.
+2015-01-16 20:10:02 [info] Configuration mise à jour: enable: 1, allow_quick: 1, allow_trade: 1, allow_sold: 1, allow_quick_buy: 1, allow_trade_buy: 1.
+2015-01-16 20:10:22 [info] Configuration mise à jour: enable: 1, allow_quick: 1, allow_trade: 1, allow_sold: 1, allow_quick_buy: 0, allow_trade_buy: 1.
+2015-01-16 20:10:23 [info] Configuration mise à jour: enable: 1, allow_quick: 1, allow_trade: 1, allow_sold: 1, allow_quick_buy: 0, allow_trade_buy: 0.
+2015-01-16 20:10:24 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-16 20:10:24 [warn] Les achats réels en "Achat/Revente rapide" sont désactivés.
+2015-01-16 20:10:42 [erro] ====== Connexion échouée. Client error response [url] https://utas.s2.fut.ea.com/ut/game/fifa15/user/credits [status code] 459 [reason phrase] 459
+2015-01-16 20:11:14 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-16 20:11:14 [warn] Les achats réels en "Achat/Revente rapide" sont désactivés.
+2015-01-16 20:11:22 [info] ====== Connexion réussie. [Credits: 4589]
+2015-01-16 20:11:26 [info] 2 joueurs sous-côtés trouvés.
+2015-01-16 20:11:26 [debu] Estimation bénef.: 24, tradeId: 152711289462, startingBid: 600, currentBid: 0, buyNowPrice: 700, nextBid: 600, discardValue: 624, expire: 38
+2015-01-16 20:11:26 [debu] Estimation bénef.: 6, tradeId: 152711277555, startingBid: 650, currentBid: 0, buyNowPrice: 700, nextBid: 650, discardValue: 656, expire: 48
+2015-01-16 20:11:28 [info] ====== Crédit: [4589 points], Disponible: [-411 points]
+2015-01-16 20:11:28 [info] Credits insuffisants.
+2015-01-16 20:13:02 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-16 20:13:02 [warn] Les achats réels en "Achat/Revente rapide" sont désactivés.
+2015-01-16 20:13:10 [info] ====== Connexion réussie. [Credits: 4589]
+2015-01-16 20:13:15 [info] 4 joueurs sous-côtés trouvés.
+2015-01-16 20:13:15 [debu] Estimation bénef.: 8, tradeId: 152711304472, startingBid: 600, currentBid: 0, buyNowPrice: 650, nextBid: 600, discardValue: 608, expire: 17
+2015-01-16 20:13:15 [debu] Estimation bénef.: 8, tradeId: 152711378225, startingBid: 600, currentBid: 0, buyNowPrice: 650, nextBid: 600, discardValue: 608, expire: 26
+2015-01-16 20:13:15 [debu] Estimation bénef.: 8, tradeId: 152711363123, startingBid: 600, currentBid: 0, buyNowPrice: 650, nextBid: 600, discardValue: 608, expire: 40
+2015-01-16 20:13:15 [debu] Estimation bénef.: 8, tradeId: 152711385237, startingBid: 600, currentBid: 0, buyNowPrice: 650, nextBid: 600, discardValue: 608, expire: 52
+2015-01-16 20:13:17 [info] ====== Crédit: [4589 points], Disponible: [-411 points]
+2015-01-16 20:13:17 [info] Credits insuffisants.
+2015-01-16 20:13:26 [info] Revente rapide [+6] - tradeId: 152710826814, lastSalePrice: 650,  startingBid: 150, currentBid: 650, buyNowPrice: 0, discardValue: 656, expires: -1
+2015-01-16 20:13:32 [info] Revente rapide [+4] - tradeId: 152710920652, lastSalePrice: 300,  startingBid: 300, currentBid: 300, buyNowPrice: 450, discardValue: 304, expires: -1
+2015-01-16 20:13:34 [info] Revente rapide [+6] - tradeId: 152710918219, lastSalePrice: 650,  startingBid: 150, currentBid: 650, buyNowPrice: 0, discardValue: 656, expires: -1
+2015-01-16 20:13:36 [info] Revente rapide [+6] - tradeId: 152710875689, lastSalePrice: 650,  startingBid: 500, currentBid: 650, buyNowPrice: 950, discardValue: 656, expires: -1
+2015-01-16 20:13:44 [info] Revente rapide [+6] - tradeId: 152710947823, lastSalePrice: 650,  startingBid: 150, currentBid: 650, buyNowPrice: 0, discardValue: 656, expires: -1
+2015-01-16 20:13:53 [info] Remis en vente - tradeId: 0, startingBid: 1000, buyNowPrice: 1400, discardValue: 656
+2015-01-16 20:13:53 [info] Remis en vente - tradeId: 0, startingBid: 1000, buyNowPrice: 1400, discardValue: 656
+2015-01-16 20:13:54 [info] Remis en vente - tradeId: 0, startingBid: 1000, buyNowPrice: 1400, discardValue: 656
+2015-01-16 20:13:54 [info] ====== Termine.
+2015-01-18 16:37:36 [info] Configuration mise à jour: enable: 1, allow_quick: 0, allow_trade: 1, allow_sold: 1, allow_quick_buy: 0, allow_trade_buy: 0.
+2015-01-18 16:37:37 [info] Configuration mise à jour: enable: 1, allow_quick: 0, allow_trade: 0, allow_sold: 1, allow_quick_buy: 0, allow_trade_buy: 0.
+2015-01-18 16:37:38 [info] Configuration mise à jour: enable: 1, allow_quick: 0, allow_trade: 0, allow_sold: 0, allow_quick_buy: 0, allow_trade_buy: 0.
+2015-01-18 16:37:39 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-18 16:37:39 [warn] Les achats réels en "Achat/Revente rapide" sont désactivés.
+2015-01-18 16:37:39 [warn] Les ventes réelles désactivées.
+2015-01-18 16:37:39 [warn] Mode "Achat/Revente rapide" est désactivé.
+2015-01-18 16:37:39 [warn] Mode "Achat/Revente" classique est désactivé.
+2015-01-18 16:37:50 [erro] ====== Connexion échouée. Client error response [url] https://utas.s2.fut.ea.com/ut/game/fifa15/phishing/validate?answer=7860d4d6aa29c2b3458597005653df34&timestamp= [status code] 401 [reason phrase] Unauthorized
+2015-01-18 16:40:25 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-18 16:40:25 [warn] Les achats réels en "Achat/Revente rapide" sont désactivés.
+2015-01-18 16:40:25 [warn] Les ventes réelles désactivées.
+2015-01-18 16:40:25 [warn] Mode "Achat/Revente rapide" est désactivé.
+2015-01-18 16:40:25 [warn] Mode "Achat/Revente" classique est désactivé.
+2015-01-18 16:40:30 [erro] ====== Connexion échouée. Client error response [url] https://utas.s2.fut.ea.com/ut/game/fifa15/user/credits [status code] 401 [reason phrase] Unauthorized
+2015-01-18 16:40:45 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-18 16:40:45 [warn] Les achats réels en "Achat/Revente rapide" sont désactivés.
+2015-01-18 16:40:45 [warn] Les ventes réelles désactivées.
+2015-01-18 16:40:45 [warn] Mode "Achat/Revente rapide" est désactivé.
+2015-01-18 16:40:45 [warn] Mode "Achat/Revente" classique est désactivé.
+2015-01-18 16:40:48 [erro] ====== Connexion échouée. Client error response [url] https://utas.s2.fut.ea.com/ut/auth?timestamp= [status code] 403 [reason phrase] Forbidden
+2015-01-18 16:40:55 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-18 16:40:55 [warn] Les achats réels en "Achat/Revente rapide" sont désactivés.
+2015-01-18 16:40:55 [warn] Les ventes réelles désactivées.
+2015-01-18 16:40:55 [warn] Mode "Achat/Revente rapide" est désactivé.
+2015-01-18 16:40:55 [warn] Mode "Achat/Revente" classique est désactivé.
+2015-01-18 16:40:59 [info] ====== Connexion réussie. [Credits: 3]
+2015-01-18 16:41:00 [debu] Remis en vente - startingBid: 1000, buyNowPrice: 1400, discardValue: 632
+2015-01-18 16:41:00 [debu] Remis en vente - startingBid: 1000, buyNowPrice: 1400, discardValue: 632
+2015-01-18 16:41:00 [debu] Remis en vente - startingBid: 1000, buyNowPrice: 1400, discardValue: 632
+2015-01-18 16:41:00 [info] ====== Termine.
+2015-01-19 10:08:15 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 10:08:15 [warn] Les achats réels en "Achat/Revente rapide" sont désactivés.
+2015-01-19 10:08:15 [warn] Les ventes réelles désactivées.
+2015-01-19 10:08:15 [warn] Mode "Achat/Revente rapide" est désactivé.
+2015-01-19 10:08:15 [warn] Mode "Achat/Revente" classique est désactivé.
+2015-01-19 10:08:20 [info] ====== Connexion réussie. [Credits: 3253]
+2015-01-19 10:08:21 [info] ====== Termine.
+2015-01-19 10:09:21 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 10:09:21 [warn] Les achats réels en "Achat/Revente rapide" sont désactivés.
+2015-01-19 10:09:21 [warn] Les ventes réelles désactivées.
+2015-01-19 10:09:21 [warn] Mode "Achat/Revente rapide" est désactivé.
+2015-01-19 10:09:21 [warn] Mode "Achat/Revente" classique est désactivé.
+2015-01-19 10:09:25 [info] ====== Connexion réussie. [Credits: 3253]
+2015-01-19 10:09:26 [info] ====== Termine.
+2015-01-19 10:09:41 [info] Configuration mise à jour: enable: 1, allow_quick: 1, allow_trade: 0, allow_sold: 0, allow_quick_buy: 0, allow_trade_buy: 0.
+2015-01-19 10:09:46 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 10:09:46 [warn] Les achats réels en "Achat/Revente rapide" sont désactivés.
+2015-01-19 10:09:46 [warn] Les ventes réelles désactivées.
+2015-01-19 10:09:46 [warn] Mode "Achat/Revente" classique est désactivé.
+2015-01-19 10:09:50 [info] ====== Connexion réussie. [Credits: 3253]
+2015-01-19 10:09:54 [info] 1 joueurs sous-côtés trouvés.
+2015-01-19 10:09:54 [debu] Estimation bénef.: 8, tradeId: 152866875213, startingBid: 600, currentBid: 0, buyNowPrice: 650, nextBid: 600, discardValue: 608, expire: 55
+2015-01-19 10:09:57 [info] ====== Termine.
+2015-01-19 10:12:19 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 10:12:19 [warn] Les achats réels en "Achat/Revente rapide" sont désactivés.
+2015-01-19 10:12:19 [warn] Les ventes réelles désactivées.
+2015-01-19 10:12:19 [warn] Mode "Achat/Revente" classique est désactivé.
+2015-01-19 10:12:23 [info] ====== Connexion réussie. [Credits: 3253]
+2015-01-19 10:12:28 [info] 2 joueurs sous-côtés trouvés.
+2015-01-19 10:12:28 [debu] Estimation bénef.: 40, tradeId: 152867004972, startingBid: 600, currentBid: 0, buyNowPrice: 650, nextBid: 600, discardValue: 640, expire: 56
+2015-01-19 10:12:28 [debu] Estimation bénef.: 8, tradeId: 152867021260, startingBid: 500, currentBid: 550, buyNowPrice: 650, nextBid: 600, discardValue: 608, expire: 87
+2015-01-19 10:12:30 [info] ====== Termine.
+2015-01-19 10:12:52 [info] Configuration mise à jour: enable: 1, allow_quick: 0, allow_trade: 0, allow_sold: 0, allow_quick_buy: 0, allow_trade_buy: 0.
+2015-01-19 10:12:55 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 10:12:55 [warn] Les achats réels en "Achat/Revente rapide" sont désactivés.
+2015-01-19 10:12:55 [warn] Les ventes réelles désactivées.
+2015-01-19 10:12:55 [warn] Mode "Achat/Revente rapide" est désactivé.
+2015-01-19 10:12:55 [warn] Mode "Achat/Revente" classique est désactivé.
+2015-01-19 10:12:58 [info] ====== Connexion réussie. [Credits: 3253]
+2015-01-19 10:12:59 [info] ====== Termine.
+2015-01-19 10:14:16 [info] Configuration mise à jour: enable: 1, allow_quick: 1, allow_trade: 0, allow_sold: 0, allow_quick_buy: 0, allow_trade_buy: 0.
+2015-01-19 10:14:18 [info] Configuration mise à jour: enable: 1, allow_quick: 0, allow_trade: 0, allow_sold: 0, allow_quick_buy: 0, allow_trade_buy: 0.
+2015-01-19 10:14:20 [info] Configuration mise à jour: enable: 1, allow_quick: 1, allow_trade: 0, allow_sold: 0, allow_quick_buy: 0, allow_trade_buy: 0.
+2015-01-19 10:14:21 [info] Configuration mise à jour: enable: 0, allow_quick: 1, allow_trade: 0, allow_sold: 0, allow_quick_buy: 0, allow_trade_buy: 0.
+2015-01-19 10:14:34 [warn] L'autobuyer est désactivé.
+2015-01-19 10:14:34 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 10:14:34 [warn] Les achats réels en "Achat/Revente rapide" sont désactivés.
+2015-01-19 10:14:34 [warn] Les ventes réelles désactivées.
+2015-01-19 10:14:34 [warn] Mode "Achat/Revente" classique est désactivé.
+2015-01-19 10:14:38 [info] Configuration mise à jour: enable: 1, allow_quick: 1, allow_trade: 0, allow_sold: 0, allow_quick_buy: 0, allow_trade_buy: 0.
+2015-01-19 10:14:39 [info] Configuration mise à jour: enable: 1, allow_quick: 0, allow_trade: 0, allow_sold: 0, allow_quick_buy: 0, allow_trade_buy: 0.
+2015-01-19 10:14:40 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 10:14:40 [warn] Les achats réels en "Achat/Revente rapide" sont désactivés.
+2015-01-19 10:14:40 [warn] Les ventes réelles désactivées.
+2015-01-19 10:14:40 [warn] Mode "Achat/Revente rapide" est désactivé.
+2015-01-19 10:14:40 [warn] Mode "Achat/Revente" classique est désactivé.
+2015-01-19 10:14:44 [info] ====== Connexion réussie. [Credits: 3253]
+2015-01-19 10:14:45 [info] ====== Termine.
+2015-01-19 10:17:38 [info] Configuration mise à jour: enable: 1, allow_quick: 1, allow_trade: 0, allow_sold: 0, allow_quick_buy: 0, allow_trade_buy: 0.
+2015-01-19 10:17:43 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 10:17:43 [warn] Les achats réels en "Achat/Revente rapide" sont désactivés.
+2015-01-19 10:17:43 [warn] Les ventes réelles désactivées.
+2015-01-19 10:17:43 [warn] Mode "Achat/Revente" classique est désactivé.
+2015-01-19 10:17:49 [info] ====== Connexion réussie. [Credits: 3253]
+2015-01-19 10:17:56 [info] 4 joueurs sous-côtés trouvés.
+2015-01-19 10:17:56 [debu] Estimation bénef.: 8, tradeId: 152867215656, startingBid: 300, currentBid: 0, buyNowPrice: 350, nextBid: 300, discardValue: 308, expire: 52
+2015-01-19 10:17:56 [debu] Estimation bénef.: 4, tradeId: 152867221933, startingBid: 300, currentBid: 0, buyNowPrice: 350, nextBid: 300, discardValue: 304, expire: 53
+2015-01-19 10:17:56 [debu] Estimation bénef.: 4, tradeId: 152867197356, startingBid: 300, currentBid: 0, buyNowPrice: 350, nextBid: 300, discardValue: 304, expire: 63
+2015-01-19 10:17:56 [debu] Estimation bénef.: 8, tradeId: 152867204494, startingBid: 600, currentBid: 0, buyNowPrice: 650, nextBid: 600, discardValue: 608, expire: 80
+2015-01-19 10:17:58 [info] ====== Termine.
+2015-01-19 10:19:40 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 10:19:40 [warn] Les achats réels en "Achat/Revente rapide" sont désactivés.
+2015-01-19 10:19:40 [warn] Les ventes réelles désactivées.
+2015-01-19 10:19:40 [warn] Mode "Achat/Revente" classique est désactivé.
+2015-01-19 10:19:43 [info] ====== Connexion réussie. [Credits: 3253]
+2015-01-19 10:19:53 [info] 7 joueurs sous-côtés trouvés.
+2015-01-19 10:19:53 [debu] Estimation bénef.: 8, tradeId: 152867280228, startingBid: 600, currentBid: 0, buyNowPrice: 700, nextBid: 600, discardValue: 608, expire: 55
+2015-01-19 10:19:53 [debu] Estimation bénef.: 16, tradeId: 152867274154, startingBid: 600, currentBid: 0, buyNowPrice: 650, nextBid: 600, discardValue: 616, expire: 56
+2015-01-19 10:19:53 [debu] Estimation bénef.: 16, tradeId: 152867305176, startingBid: 600, currentBid: 0, buyNowPrice: 700, nextBid: 600, discardValue: 616, expire: 66
+2015-01-19 10:19:53 [debu] Estimation bénef.: 8, tradeId: 152867259220, startingBid: 450, currentBid: 550, buyNowPrice: 700, nextBid: 600, discardValue: 608, expire: 74
+2015-01-19 10:19:53 [debu] Estimation bénef.: 6, tradeId: 152867293609, startingBid: 650, currentBid: 0, buyNowPrice: 700, nextBid: 650, discardValue: 656, expire: 78
+2015-01-19 10:19:53 [debu] Estimation bénef.: 4, tradeId: 152867314589, startingBid: 300, currentBid: 0, buyNowPrice: 350, nextBid: 300, discardValue: 304, expire: 84
+2015-01-19 10:19:53 [debu] Estimation bénef.: 16, tradeId: 152867327369, startingBid: 600, currentBid: 0, buyNowPrice: 650, nextBid: 600, discardValue: 616, expire: 104
+2015-01-19 10:19:56 [info] ====== Termine.
+2015-01-19 10:22:36 [info] Configuration mise à jour: enable: 1, allow_quick: 0, allow_trade: 0, allow_sold: 0, allow_quick_buy: 0, allow_trade_buy: 0.
+2015-01-19 10:22:37 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 10:22:37 [warn] Les achats réels en "Achat/Revente rapide" sont désactivés.
+2015-01-19 10:22:37 [warn] Les ventes réelles désactivées.
+2015-01-19 10:22:37 [warn] Mode "Achat/Revente rapide" est désactivé.
+2015-01-19 10:22:37 [warn] Mode "Achat/Revente" classique est désactivé.
+2015-01-19 10:22:41 [info] ====== Connexion réussie. [Credits: 0]
+2015-01-19 10:22:42 [info] ====== Termine.
+2015-01-19 10:29:00 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 10:29:00 [warn] Les achats réels en "Achat/Revente rapide" sont désactivés.
+2015-01-19 10:29:00 [warn] Les ventes réelles désactivées.
+2015-01-19 10:29:00 [warn] Mode "Achat/Revente rapide" est désactivé.
+2015-01-19 10:29:00 [warn] Mode "Achat/Revente" classique est désactivé.
+2015-01-19 10:29:08 [info] ====== Connexion réussie. [Credits: 3253]
+2015-01-19 10:29:09 [info] ====== Termine.
+2015-01-19 10:29:24 [info] Configuration mise à jour: enable: 1, allow_quick: 0, allow_trade: 1, allow_sold: 0, allow_quick_buy: 0, allow_trade_buy: 0.
+2015-01-19 10:29:28 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 10:29:28 [warn] Les achats réels en "Achat/Revente rapide" sont désactivés.
+2015-01-19 10:29:28 [warn] Les ventes réelles désactivées.
+2015-01-19 10:29:28 [warn] Mode "Achat/Revente rapide" est désactivé.
+2015-01-19 10:29:32 [info] ====== Connexion réussie. [Credits: 3253]
+2015-01-19 10:29:33 [info] ====== Crédit: [3253 points], Budget: [-1747 points]
+2015-01-19 10:29:33 [info] Credits insuffisants.
+2015-01-19 10:29:33 [info] ====== Termine.
+2015-01-19 10:29:43 [info] Configuration mise à jour: enable: 1, allow_quick: 0, allow_trade: 0, allow_sold: 0, allow_quick_buy: 0, allow_trade_buy: 0.
+2015-01-19 10:29:47 [info] Configuration mise à jour: enable: 1, allow_quick: 0, allow_trade: 1, allow_sold: 0, allow_quick_buy: 0, allow_trade_buy: 0.
+2015-01-19 10:29:48 [info] Configuration mise à jour: enable: 1, allow_quick: 1, allow_trade: 1, allow_sold: 0, allow_quick_buy: 0, allow_trade_buy: 0.
+2015-01-19 10:29:49 [info] Configuration mise à jour: enable: 0, allow_quick: 1, allow_trade: 1, allow_sold: 0, allow_quick_buy: 0, allow_trade_buy: 0.
+2015-01-19 10:29:49 [warn] L'autobuyer est désactivé.
+2015-01-19 10:29:49 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 10:29:49 [warn] Les achats réels en "Achat/Revente rapide" sont désactivés.
+2015-01-19 10:29:49 [warn] Les ventes réelles désactivées.
+2015-01-19 10:43:00 [warn] L'autobuyer est désactivé.
+2015-01-19 10:43:00 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 10:43:00 [warn] Les achats réels en "Achat/Revente rapide" sont désactivés.
+2015-01-19 10:43:00 [warn] Les ventes réelles désactivées.
+2015-01-19 10:43:04 [info] Configuration mise à jour: enable: 1, allow_quick: 1, allow_trade: 1, allow_sold: 0, allow_quick_buy: 0, allow_trade_buy: 0.
+2015-01-19 10:43:05 [info] Configuration mise à jour: enable: 1, allow_quick: 0, allow_trade: 1, allow_sold: 0, allow_quick_buy: 0, allow_trade_buy: 0.
+2015-01-19 10:43:06 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 10:43:06 [warn] Les achats réels en "Achat/Revente rapide" sont désactivés.
+2015-01-19 10:43:06 [warn] Les ventes réelles désactivées.
+2015-01-19 10:43:06 [warn] Mode "Achat/Revente rapide" est désactivé.
+2015-01-19 10:43:11 [info] ====== Connexion réussie. [Credits: 3253]
+2015-01-19 10:43:12 [info] ====== Crédit: [3253 points], Budget: [-1747 points]
+2015-01-19 10:43:12 [info] Credits insuffisants.
+2015-01-19 10:43:12 [info] ====== Termine.
+2015-01-19 10:44:25 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 10:44:25 [warn] Les achats réels en "Achat/Revente rapide" sont désactivés.
+2015-01-19 10:44:25 [warn] Les ventes réelles désactivées.
+2015-01-19 10:44:25 [warn] Mode "Achat/Revente rapide" est désactivé.
+2015-01-19 10:44:29 [info] ====== Connexion réussie. [Credits: 3253]
+2015-01-19 10:44:30 [info] ====== Crédit: [3253 points], Budget: [-1747 points]
+2015-01-19 10:44:30 [info] Credits insuffisants.
+2015-01-19 10:44:31 [info] ====== Termine.
+2015-01-19 10:45:29 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 10:45:29 [warn] Les achats réels en "Achat/Revente rapide" sont désactivés.
+2015-01-19 10:45:29 [warn] Les ventes réelles désactivées.
+2015-01-19 10:45:29 [warn] Mode "Achat/Revente rapide" est désactivé.
+2015-01-19 10:45:56 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 10:45:56 [warn] Les achats réels en "Achat/Revente rapide" sont désactivés.
+2015-01-19 10:45:56 [warn] Les ventes réelles désactivées.
+2015-01-19 10:45:56 [warn] Mode "Achat/Revente rapide" est désactivé.
+2015-01-19 10:46:49 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 10:46:49 [warn] Les achats réels en "Achat/Revente rapide" sont désactivés.
+2015-01-19 10:46:49 [warn] Les ventes réelles désactivées.
+2015-01-19 10:46:49 [warn] Mode "Achat/Revente rapide" est désactivé.
+2015-01-19 10:47:06 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 10:47:06 [warn] Les achats réels en "Achat/Revente rapide" sont désactivés.
+2015-01-19 10:47:06 [warn] Les ventes réelles désactivées.
+2015-01-19 10:47:06 [warn] Mode "Achat/Revente rapide" est désactivé.
+2015-01-19 10:47:09 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 10:47:09 [warn] Les achats réels en "Achat/Revente rapide" sont désactivés.
+2015-01-19 10:47:09 [warn] Les ventes réelles désactivées.
+2015-01-19 10:47:09 [warn] Mode "Achat/Revente rapide" est désactivé.
+2015-01-19 10:47:28 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 10:47:28 [warn] Les achats réels en "Achat/Revente rapide" sont désactivés.
+2015-01-19 10:47:28 [warn] Les ventes réelles désactivées.
+2015-01-19 10:47:28 [warn] Mode "Achat/Revente rapide" est désactivé.
+2015-01-19 10:48:23 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 10:48:23 [warn] Les achats réels en "Achat/Revente rapide" sont désactivés.
+2015-01-19 10:48:23 [warn] Les ventes réelles désactivées.
+2015-01-19 10:48:23 [warn] Mode "Achat/Revente rapide" est désactivé.
+2015-01-19 10:48:24 [info] ====== Connexion réussie. [Credits: ]
+2015-01-19 10:48:25 [info] ====== Crédit: [ points], Budget: [-5000 points]
+2015-01-19 10:48:25 [info] Credits insuffisants.
+2015-01-19 10:48:25 [info] ====== Termine.
+2015-01-19 10:49:19 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 10:49:19 [warn] Les achats réels en "Achat/Revente rapide" sont désactivés.
+2015-01-19 10:49:19 [warn] Les ventes réelles désactivées.
+2015-01-19 10:49:19 [warn] Mode "Achat/Revente rapide" est désactivé.
+2015-01-19 10:49:20 [info] ====== Connexion réussie. [Credits: ]
+2015-01-19 10:49:21 [info] ====== Crédit: [ points], Budget: [-5000 points]
+2015-01-19 10:49:21 [info] Credits insuffisants.
+2015-01-19 10:49:21 [info] ====== Termine.
+2015-01-19 10:50:29 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 10:50:29 [warn] Les achats réels en "Achat/Revente rapide" sont désactivés.
+2015-01-19 10:50:29 [warn] Les ventes réelles désactivées.
+2015-01-19 10:50:29 [warn] Mode "Achat/Revente rapide" est désactivé.
+2015-01-19 10:50:29 [info] ====== Connexion réussie. [Credits: ]
+2015-01-19 10:50:30 [info] ====== Crédit: [ points], Budget: [-5000 points]
+2015-01-19 10:50:30 [info] Credits insuffisants.
+2015-01-19 10:50:31 [info] ====== Termine.
+2015-01-19 10:51:22 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 10:51:22 [warn] Les achats réels en "Achat/Revente rapide" sont désactivés.
+2015-01-19 10:51:22 [warn] Les ventes réelles désactivées.
+2015-01-19 10:51:22 [warn] Mode "Achat/Revente rapide" est désactivé.
+2015-01-19 10:51:23 [info] ====== Connexion réussie. [Credits: ]
+2015-01-19 10:51:24 [info] ====== Crédit: [ points], Budget: [-5000 points]
+2015-01-19 10:51:24 [info] Credits insuffisants.
+2015-01-19 10:51:25 [info] ====== Termine.
+2015-01-19 10:51:53 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 10:51:53 [warn] Les achats réels en "Achat/Revente rapide" sont désactivés.
+2015-01-19 10:51:53 [warn] Les ventes réelles désactivées.
+2015-01-19 10:51:53 [warn] Mode "Achat/Revente rapide" est désactivé.
+2015-01-19 10:51:53 [info] ====== Connexion réussie. [Credits: ]
+2015-01-19 10:51:54 [info] ====== Crédit: [ points], Budget: [-5000 points]
+2015-01-19 10:51:54 [info] Credits insuffisants.
+2015-01-19 10:51:55 [info] ====== Termine.
+2015-01-19 10:52:29 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 10:52:29 [warn] Les achats réels en "Achat/Revente rapide" sont désactivés.
+2015-01-19 10:52:29 [warn] Les ventes réelles désactivées.
+2015-01-19 10:52:29 [warn] Mode "Achat/Revente rapide" est désactivé.
+2015-01-19 10:52:33 [info] ====== Connexion réussie. [Credits: 3253]
+2015-01-19 10:52:34 [info] ====== Crédit: [3253 points], Budget: [-1747 points]
+2015-01-19 10:52:34 [info] Credits insuffisants.
+2015-01-19 10:52:35 [info] ====== Termine.
+2015-01-19 10:53:43 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 10:53:43 [warn] Les achats réels en "Achat/Revente rapide" sont désactivés.
+2015-01-19 10:53:43 [warn] Les ventes réelles désactivées.
+2015-01-19 10:53:43 [warn] Mode "Achat/Revente rapide" est désactivé.
+2015-01-19 10:53:44 [info] ====== Connexion réussie. [Credits: 3253]
+2015-01-19 10:53:45 [info] ====== Crédit: [3253 points], Budget: [-1747 points]
+2015-01-19 10:53:45 [info] Credits insuffisants.
+2015-01-19 10:53:45 [info] ====== Termine.
+2015-01-19 10:53:54 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 10:53:54 [warn] Les achats réels en "Achat/Revente rapide" sont désactivés.
+2015-01-19 10:53:54 [warn] Les ventes réelles désactivées.
+2015-01-19 10:53:54 [warn] Mode "Achat/Revente rapide" est désactivé.
+2015-01-19 10:53:59 [info] ====== Connexion réussie. [Credits: 3253]
+2015-01-19 10:54:00 [info] ====== Crédit: [3253 points], Budget: [-1747 points]
+2015-01-19 10:54:00 [info] Credits insuffisants.
+2015-01-19 10:54:00 [info] ====== Termine.
+2015-01-19 10:54:11 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 10:54:11 [warn] Les achats réels en "Achat/Revente rapide" sont désactivés.
+2015-01-19 10:54:11 [warn] Les ventes réelles désactivées.
+2015-01-19 10:54:11 [warn] Mode "Achat/Revente rapide" est désactivé.
+2015-01-19 10:54:12 [info] ====== Connexion réussie. [Credits: 3253]
+2015-01-19 10:54:13 [info] ====== Crédit: [3253 points], Budget: [-1747 points]
+2015-01-19 10:54:13 [info] Credits insuffisants.
+2015-01-19 10:54:13 [info] ====== Termine.
+2015-01-19 11:03:59 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 11:03:59 [warn] Les achats réels en "Achat/Revente rapide" sont désactivés.
+2015-01-19 11:03:59 [warn] Les ventes réelles désactivées.
+2015-01-19 11:03:59 [warn] Mode "Achat/Revente rapide" est désactivé.
+2015-01-19 11:04:00 [info] ====== Connexion réussie. [Credits: 3253]
+2015-01-19 11:04:01 [info] ====== Crédit: [3253 points], Budget: [-1747 points]
+2015-01-19 11:04:01 [info] Credits insuffisants.
+2015-01-19 11:04:01 [info] ====== Termine.
+2015-01-19 11:04:32 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 11:04:32 [warn] Les achats réels en "Achat/Revente rapide" sont désactivés.
+2015-01-19 11:04:32 [warn] Les ventes réelles désactivées.
+2015-01-19 11:04:32 [warn] Mode "Achat/Revente rapide" est désactivé.
+2015-01-19 11:04:33 [info] ====== Connexion réussie. [Credits: 3253]
+2015-01-19 11:04:34 [info] ====== Crédit: [3253 points], Budget: [-1747 points]
+2015-01-19 11:04:34 [info] Credits insuffisants.
+2015-01-19 11:04:35 [info] ====== Termine.
+2015-01-19 11:04:49 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 11:04:49 [warn] Les achats réels en "Achat/Revente rapide" sont désactivés.
+2015-01-19 11:04:49 [warn] Les ventes réelles désactivées.
+2015-01-19 11:04:49 [warn] Mode "Achat/Revente rapide" est désactivé.
+2015-01-19 11:04:50 [info] ====== Connexion réussie. [Credits: 3253]
+2015-01-19 11:04:51 [info] ====== Crédit: [3253 points], Budget: [-1747 points]
+2015-01-19 11:04:51 [info] Credits insuffisants.
+2015-01-19 11:04:52 [info] ====== Termine.
+2015-01-19 11:06:09 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 11:06:09 [warn] Les achats réels en "Achat/Revente rapide" sont désactivés.
+2015-01-19 11:06:09 [warn] Les ventes réelles désactivées.
+2015-01-19 11:06:09 [warn] Mode "Achat/Revente rapide" est désactivé.
+2015-01-19 11:06:10 [info] ====== Connexion réussie. [Credits: 3253]
+2015-01-19 11:06:11 [info] ====== Crédit: [3253 points], Budget: [-1747 points]
+2015-01-19 11:06:11 [info] Credits insuffisants.
+2015-01-19 11:06:12 [info] ====== Termine.
+2015-01-19 11:06:31 [info] Configuration mise à jour: enable: 1, allow_quick: 1, allow_trade: 1, allow_sold: 0, allow_quick_buy: 0, allow_trade_buy: 0.
+2015-01-19 11:06:37 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 11:06:37 [warn] Les achats réels en "Achat/Revente rapide" sont désactivés.
+2015-01-19 11:06:37 [warn] Les ventes réelles désactivées.
+2015-01-19 11:06:38 [info] ====== Connexion réussie. [Credits: 3253]
+2015-01-19 11:06:48 [info] 1 joueurs sous-côtés trouvés.
+2015-01-19 11:06:48 [debu] Estimation bénef.: 4, tradeId: 152691999350, startingBid: 300, currentBid: 0, buyNowPrice: 500, nextBid: 300, discardValue: 304, expire: 57
+2015-01-19 11:06:50 [info] ====== Crédit: [3253 points], Budget: [-1747 points]
+2015-01-19 11:06:50 [info] Credits insuffisants.
+2015-01-19 11:06:50 [info] ====== Termine.
+2015-01-19 11:07:30 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 11:07:30 [warn] Les achats réels en "Achat/Revente rapide" sont désactivés.
+2015-01-19 11:07:30 [warn] Les ventes réelles désactivées.
+2015-01-19 11:07:31 [info] ====== Connexion réussie. [Credits: 3253]
+2015-01-19 11:07:42 [info] 0 joueurs sous-côtés trouvés.
+2015-01-19 11:07:44 [info] ====== Crédit: [3253 points], Budget: [-1747 points]
+2015-01-19 11:07:44 [info] Credits insuffisants.
+2015-01-19 11:07:44 [info] ====== Termine.
+2015-01-19 11:09:42 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 11:09:42 [warn] Les achats réels en "Achat/Revente rapide" sont désactivés.
+2015-01-19 11:09:42 [warn] Les ventes réelles désactivées.
+2015-01-19 11:09:43 [info] ====== Connexion réussie. [Credits: ]
+2015-01-19 11:09:52 [info] 0 joueurs sous-côtés trouvés.
+2015-01-19 11:09:54 [info] ====== Crédit: [ points], Budget: [-5000 points]
+2015-01-19 11:09:54 [info] Credits insuffisants.
+2015-01-19 11:09:55 [info] ====== Termine.
+2015-01-19 11:11:03 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 11:11:03 [warn] Les achats réels en "Achat/Revente rapide" sont désactivés.
+2015-01-19 11:11:03 [warn] Les ventes réelles désactivées.
+2015-01-19 11:11:04 [info] ====== Connexion réussie. [Credits: ]
+2015-01-19 11:11:14 [info] 0 joueurs sous-côtés trouvés.
+2015-01-19 11:11:16 [info] ====== Crédit: [ points], Budget: [-5000 points]
+2015-01-19 11:11:16 [info] Credits insuffisants.
+2015-01-19 11:11:16 [info] ====== Termine.
+2015-01-19 11:15:54 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 11:15:54 [warn] Les achats réels en "Achat/Revente rapide" sont désactivés.
+2015-01-19 11:15:54 [warn] Les ventes réelles désactivées.
+2015-01-19 11:15:55 [info] ====== Connexion réussie. [Credits: ]
+2015-01-19 11:16:03 [info] 0 joueurs sous-côtés trouvés.
+2015-01-19 11:16:05 [info] ====== Crédit: [ points], Budget: [-5000 points]
+2015-01-19 11:16:05 [info] Credits insuffisants.
+2015-01-19 11:16:06 [info] ====== Termine.
+2015-01-19 11:17:09 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 11:17:09 [warn] Les achats réels en "Achat/Revente rapide" sont désactivés.
+2015-01-19 11:17:09 [warn] Les ventes réelles désactivées.
+2015-01-19 11:17:10 [info] ====== Connexion réussie. [Credits: ]
+2015-01-19 11:17:19 [info] 0 joueurs sous-côtés trouvés.
+2015-01-19 11:17:21 [info] ====== Crédit: [ points], Budget: [-5000 points]
+2015-01-19 11:17:21 [info] Credits insuffisants.
+2015-01-19 11:17:22 [info] ====== Termine.
+2015-01-19 11:17:22 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 11:17:22 [warn] Les achats réels en "Achat/Revente rapide" sont désactivés.
+2015-01-19 11:17:22 [warn] Les ventes réelles désactivées.
+2015-01-19 11:17:22 [info] ====== Connexion réussie. [Credits: ]
+2015-01-19 11:17:31 [info] 0 joueurs sous-côtés trouvés.
+2015-01-19 11:17:33 [info] ====== Crédit: [ points], Budget: [-5000 points]
+2015-01-19 11:17:33 [info] Credits insuffisants.
+2015-01-19 11:17:34 [info] ====== Termine.
+2015-01-19 11:19:31 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 11:19:31 [warn] Les achats réels en "Achat/Revente rapide" sont désactivés.
+2015-01-19 11:19:31 [warn] Les ventes réelles désactivées.
+2015-01-19 11:19:31 [warn] ====== Code 401, reason: expired session, message : 
+2015-01-19 11:19:35 [info] ====== Connexion réussie. [Credits: 3253]
+2015-01-19 11:19:45 [info] 2 joueurs sous-côtés trouvés.
+2015-01-19 11:19:45 [debu] Estimation bénef.: 4, tradeId: 152869511467, startingBid: 300, currentBid: 0, buyNowPrice: 350, nextBid: 300, discardValue: 304, expire: 81
+2015-01-19 11:19:45 [debu] Estimation bénef.: 12, tradeId: 152869520979, startingBid: 300, currentBid: 0, buyNowPrice: 600, nextBid: 300, discardValue: 312, expire: 86
+2015-01-19 11:19:47 [info] ====== Crédit: [3253 points], Budget: [-1747 points]
+2015-01-19 11:19:47 [info] Credits insuffisants.
+2015-01-19 11:19:48 [info] ====== Termine.
+2015-01-19 11:20:26 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 11:20:26 [warn] Les achats réels en "Achat/Revente rapide" sont désactivés.
+2015-01-19 11:20:26 [warn] Les ventes réelles désactivées.
+2015-01-19 11:20:26 [info] ====== Connexion réussie. [Credits: 3253]
+2015-01-19 11:20:36 [info] 4 joueurs sous-côtés trouvés.
+2015-01-19 11:20:36 [debu] Estimation bénef.: 4, tradeId: 152869511467, startingBid: 300, currentBid: 0, buyNowPrice: 350, nextBid: 300, discardValue: 304, expire: 34
+2015-01-19 11:20:36 [debu] Estimation bénef.: 12, tradeId: 152869520979, startingBid: 300, currentBid: 0, buyNowPrice: 600, nextBid: 300, discardValue: 312, expire: 39
+2015-01-19 11:20:36 [debu] Estimation bénef.: 4, tradeId: 152869557426, startingBid: 300, currentBid: 0, buyNowPrice: 550, nextBid: 300, discardValue: 304, expire: 48
+2015-01-19 11:20:36 [debu] Estimation bénef.: 4, tradeId: 152692409505, startingBid: 300, currentBid: 0, buyNowPrice: 400, nextBid: 300, discardValue: 304, expire: 56
+2015-01-19 11:20:38 [info] ====== Crédit: [3253 points], Budget: [-1747 points]
+2015-01-19 11:20:38 [info] Credits insuffisants.
+2015-01-19 11:20:38 [info] ====== Termine.
+2015-01-19 11:21:05 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 11:21:05 [warn] Les achats réels en "Achat/Revente rapide" sont désactivés.
+2015-01-19 11:21:05 [warn] Les ventes réelles désactivées.
+2015-01-19 11:21:06 [warn] ====== Code 459, reason: , message : 
+2015-01-19 11:22:31 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 11:22:31 [warn] Les achats réels en "Achat/Revente rapide" sont désactivés.
+2015-01-19 11:22:31 [warn] Les ventes réelles désactivées.
+2015-01-19 11:22:31 [erro] ====== Code 459, reason: 
+2015-01-19 11:22:31 [info] ====== Connexion réussie. [Credits: ]
+2015-01-19 11:22:40 [info] 0 joueurs sous-côtés trouvés.
+2015-01-19 11:22:42 [info] ====== Crédit: [ points], Budget: [-5000 points]
+2015-01-19 11:22:42 [info] Credits insuffisants.
+2015-01-19 11:22:43 [info] ====== Termine.
+2015-01-19 11:24:28 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 11:24:28 [warn] Les achats réels en "Achat/Revente rapide" sont désactivés.
+2015-01-19 11:24:28 [warn] Les ventes réelles désactivées.
+2015-01-19 11:24:28 [erro] ====== Code 459, reason: Captcha Triggered
+2015-01-19 11:27:35 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 11:27:35 [warn] Les achats réels en "Achat/Revente rapide" sont désactivés.
+2015-01-19 11:27:35 [warn] Les ventes réelles désactivées.
+2015-01-19 11:27:36 [erro] ====== Code 459, reason: Captcha Triggered
+2015-01-19 11:27:58 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 11:27:58 [warn] Les achats réels en "Achat/Revente rapide" sont désactivés.
+2015-01-19 11:27:58 [warn] Les ventes réelles désactivées.
+2015-01-19 11:27:58 [erro] ====== Code 459, reason: Captcha Triggered
+2015-01-19 11:33:23 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 11:33:23 [warn] Les achats réels en "Achat/Revente rapide" sont désactivés.
+2015-01-19 11:33:23 [warn] Les ventes réelles désactivées.
+2015-01-19 11:33:23 [erro] ====== Code 459, reason: Captcha Triggered
+2015-01-19 11:35:10 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 11:35:10 [warn] Les achats réels en "Achat/Revente rapide" sont désactivés.
+2015-01-19 11:35:10 [warn] Les ventes réelles désactivées.
+2015-01-19 11:35:10 [warn] ====== Code 401, reason: expired session, message : 
+2015-01-19 11:35:19 [info] ====== Connexion réussie. [Credits: 3253]
+2015-01-19 11:35:29 [info] 1 joueurs sous-côtés trouvés.
+2015-01-19 11:35:29 [debu] Estimation bénef.: 8, tradeId: 152870118575, startingBid: 600, currentBid: 0, buyNowPrice: 650, nextBid: 600, discardValue: 608, expire: 57
+2015-01-19 11:35:31 [info] ====== Crédit: [3253 points], Budget: [-1747 points]
+2015-01-19 11:35:31 [info] Credits insuffisants.
+2015-01-19 11:35:32 [info] ====== Termine.
+2015-01-19 11:36:09 [info] Configuration mise à jour: enable: 1, allow_quick: 1, allow_trade: 1, allow_sold: 1, allow_quick_buy: 0, allow_trade_buy: 0.
+2015-01-19 11:36:13 [info] Configuration mise à jour: enable: 1, allow_quick: 1, allow_trade: 1, allow_sold: 1, allow_quick_buy: 1, allow_trade_buy: 0.
+2015-01-19 11:36:17 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 11:36:17 [warn] ====== Code 401, reason: expired session, message : 
+2015-01-19 11:36:21 [info] ====== Connexion réussie. [Credits: 3253]
+2015-01-19 11:36:31 [info] 0 joueurs sous-côtés trouvés.
+2015-01-19 11:36:33 [info] ====== Crédit: [3253 points], Budget: [-1747 points]
+2015-01-19 11:36:33 [info] Credits insuffisants.
+2015-01-19 11:36:34 [info] ====== Termine.
+2015-01-19 11:38:06 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 11:38:07 [info] ====== Connexion réussie. [Credits: 3253]
+2015-01-19 11:38:17 [info] 7 joueurs sous-côtés trouvés.
+2015-01-19 11:38:17 [debu] Estimation bénef.: 8, tradeId: 152870205252, startingBid: 600, currentBid: 0, buyNowPrice: 650, nextBid: 600, discardValue: 608, expire: 49
+2015-01-19 11:38:17 [info] Quick buy réussi... attente fin des enchères.
+2015-01-19 11:38:17 [debu] Estimation bénef.: 8, tradeId: 152870208501, startingBid: 600, currentBid: 0, buyNowPrice: 700, nextBid: 600, discardValue: 608, expire: 53
+2015-01-19 11:38:17 [info] Quick buy réussi... attente fin des enchères.
+2015-01-19 11:38:18 [debu] Estimation bénef.: 8, tradeId: 152870196793, startingBid: 450, currentBid: 550, buyNowPrice: 700, nextBid: 600, discardValue: 608, expire: 56
+2015-01-19 11:38:18 [info] Quick buy réussi... attente fin des enchères.
+2015-01-19 11:38:18 [debu] Estimation bénef.: 8, tradeId: 152870233260, startingBid: 400, currentBid: 550, buyNowPrice: 700, nextBid: 600, discardValue: 608, expire: 56
+2015-01-19 11:38:18 [info] Quick buy réussi... attente fin des enchères.
+2015-01-19 11:38:19 [debu] Estimation bénef.: 8, tradeId: 152870220945, startingBid: 600, currentBid: 0, buyNowPrice: 700, nextBid: 600, discardValue: 608, expire: 59
+2015-01-19 11:38:19 [info] Quick buy réussi... attente fin des enchères.
+2015-01-19 11:38:19 [debu] Estimation bénef.: 8, tradeId: 152870249001, startingBid: 600, currentBid: 0, buyNowPrice: 700, nextBid: 600, discardValue: 608, expire: 70
+2015-01-19 11:38:19 [info] Quick buy réussi... attente fin des enchères.
+2015-01-19 11:38:20 [debu] Estimation bénef.: 16, tradeId: 152870218143, startingBid: 600, currentBid: 0, buyNowPrice: 650, nextBid: 600, discardValue: 616, expire: 71
+2015-01-19 11:38:20 [info] Quick buy réussi... attente fin des enchères.
+2015-01-19 11:38:23 [info] ====== Crédit: [3253 points], Budget: [-1747 points]
+2015-01-19 11:38:23 [info] Credits insuffisants.
+2015-01-19 11:38:27 [info] Remis en vente - startingBid: 1000, buyNowPrice: 1600, discardValue: 632
+2015-01-19 11:38:30 [info] Remis en vente - startingBid: 1000, buyNowPrice: 1600, discardValue: 632
+2015-01-19 11:38:32 [info] Remis en vente - startingBid: 1000, buyNowPrice: 1600, discardValue: 632
+2015-01-19 11:38:32 [info] ====== Termine.
+2015-01-19 12:27:43 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 12:27:44 [warn] ====== Code 401, reason: expired session, message : 
+2015-01-19 14:38:02 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 14:38:02 [warn] ====== Code 401, reason: expired session, message : 
+2015-01-19 14:38:50 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 14:38:50 [info] ====== Connexion réussie. [Credits: ]
+2015-01-19 14:39:00 [info] 0 joueurs sous-côtés trouvés.
+2015-01-19 14:39:02 [info] ====== Crédit: [ points], Budget: [-5000 points]
+2015-01-19 14:39:02 [info] Credits insuffisants.
+2015-01-19 14:39:04 [info] ====== Termine.
+2015-01-19 14:39:16 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 14:39:16 [warn] ====== Code 401, reason: expired session, message : 
+2015-01-19 14:40:19 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 14:40:19 [warn] ====== Code 401, reason: expired session, message : 
+2015-01-19 14:40:23 [erro] Connexion impossible
+2015-01-19 14:40:23 [info] ====== Connexion réussie. [Credits: ]
+2015-01-19 14:40:46 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 14:40:46 [warn] ====== Code 401, reason: expired session, message : 
+2015-01-19 14:40:50 [info] ====== Connexion réussie. [Credits: ]
+2015-01-19 14:40:59 [info] Configuration mise à jour: enable: 1, allow_quick: 0, allow_trade: 1, allow_sold: 1, allow_quick_buy: 1, allow_trade_buy: 0.
+2015-01-19 14:41:00 [info] Configuration mise à jour: enable: 1, allow_quick: 0, allow_trade: 0, allow_sold: 1, allow_quick_buy: 1, allow_trade_buy: 0.
+2015-01-19 14:41:01 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 14:41:01 [warn] Mode "Achat/Revente rapide" est désactivé.
+2015-01-19 14:41:01 [warn] Mode "Achat/Revente" classique est désactivé.
+2015-01-19 14:41:01 [erro] ====== Code 500, reason: 
+2015-01-19 14:41:26 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 14:41:26 [warn] Mode "Achat/Revente rapide" est désactivé.
+2015-01-19 14:41:26 [warn] Mode "Achat/Revente" classique est désactivé.
+2015-01-19 14:41:26 [warn] ====== Code 401, reason: expired session, message : 
+2015-01-19 14:41:30 [info] ====== Connexion réussie. [Credits: ]
+2015-01-19 14:41:33 [info] ====== Termine.
+2015-01-19 14:44:02 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 14:44:02 [warn] Mode "Achat/Revente rapide" est désactivé.
+2015-01-19 14:44:02 [warn] Mode "Achat/Revente" classique est désactivé.
+2015-01-19 14:44:07 [erro] Connexion impossible
+2015-01-19 14:44:20 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 14:44:20 [warn] Mode "Achat/Revente rapide" est désactivé.
+2015-01-19 14:44:20 [warn] Mode "Achat/Revente" classique est désactivé.
+2015-01-19 14:44:24 [info] ====== Connexion réussie. [Credits: 3285]
+2015-01-19 14:44:30 [info] Remis en vente - startingBid: 1000, buyNowPrice: 1600, discardValue: 632
+2015-01-19 14:45:33 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 14:45:33 [warn] Mode "Achat/Revente rapide" est désactivé.
+2015-01-19 14:45:33 [warn] Mode "Achat/Revente" classique est désactivé.
+2015-01-19 14:45:37 [erro] Connexion impossible
+2015-01-19 14:50:01 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 14:50:01 [warn] Mode "Achat/Revente rapide" est désactivé.
+2015-01-19 14:50:01 [warn] Mode "Achat/Revente" classique est désactivé.
+2015-01-19 14:50:05 [erro] Connexion impossible
+2015-01-19 14:51:05 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 14:51:05 [warn] Mode "Achat/Revente rapide" est désactivé.
+2015-01-19 14:51:05 [warn] Mode "Achat/Revente" classique est désactivé.
+2015-01-19 14:51:09 [erro] Connexion impossible
+2015-01-19 14:51:09 [erro] == Code 401, reason: Client error response [url] https://utas.s2.fut.ea.com/ut/game/fifa15/phishing/validate?answer=7860d4d6aa29c2b3458597005653df34&timestamp= [status code] 401 [reason phrase] Unauthorized
+2015-01-19 14:52:32 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 14:52:32 [warn] Mode "Achat/Revente rapide" est désactivé.
+2015-01-19 14:52:32 [warn] Mode "Achat/Revente" classique est désactivé.
+2015-01-19 14:52:37 [info] ====== Connexion réussie. [Credits: 3285]
+2015-01-19 14:54:41 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 14:54:41 [warn] Mode "Achat/Revente rapide" est désactivé.
+2015-01-19 14:54:41 [warn] Mode "Achat/Revente" classique est désactivé.
+2015-01-19 14:54:46 [info] ====== Connexion réussie. [Credits: 3285]
+2015-01-19 14:56:06 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 14:56:06 [warn] Mode "Achat/Revente rapide" est désactivé.
+2015-01-19 14:56:06 [warn] Mode "Achat/Revente" classique est désactivé.
+2015-01-19 14:56:10 [erro] Connexion impossible
+2015-01-19 14:56:55 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 14:56:55 [warn] Mode "Achat/Revente rapide" est désactivé.
+2015-01-19 14:56:55 [warn] Mode "Achat/Revente" classique est désactivé.
+2015-01-19 14:56:59 [erro] Connexion impossible
+2015-01-19 14:56:59 [erro] == Code 401, reason: Client error response [url] https://utas.s2.fut.ea.com/ut/game/fifa15/tradepile [status code] 401 [reason phrase] Unauthorized
+2015-01-19 14:57:06 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 14:57:06 [warn] Mode "Achat/Revente rapide" est désactivé.
+2015-01-19 14:57:06 [warn] Mode "Achat/Revente" classique est désactivé.
+2015-01-19 14:57:10 [erro] Connexion impossible
+2015-01-19 14:57:10 [erro] == Code 401, reason: Client error response [url] https://utas.s2.fut.ea.com/ut/game/fifa15/tradepile [status code] 401 [reason phrase] Unauthorized
+2015-01-19 15:00:38 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 15:00:38 [warn] Mode "Achat/Revente rapide" est désactivé.
+2015-01-19 15:00:38 [warn] Mode "Achat/Revente" classique est désactivé.
+2015-01-19 15:00:42 [erro] Connexion impossible
+2015-01-19 15:00:42 [erro] == Code 401, reason: Client error response [url] https://utas.s2.fut.ea.com/ut/auth?timestamp= [status code] 401 [reason phrase] Unauthorized
+2015-01-19 15:02:14 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 15:02:14 [warn] Mode "Achat/Revente rapide" est désactivé.
+2015-01-19 15:02:14 [warn] Mode "Achat/Revente" classique est désactivé.
+2015-01-19 15:02:19 [info] ====== Connexion réussie. [Credits: 3285]
+2015-01-19 15:03:48 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 15:03:48 [warn] Mode "Achat/Revente rapide" est désactivé.
+2015-01-19 15:03:48 [warn] Mode "Achat/Revente" classique est désactivé.
+2015-01-19 15:03:52 [erro] Connexion impossible
+2015-01-19 15:03:52 [erro] == Code 401, reason: Client error response [url] https://utas.s2.fut.ea.com/ut/game/fifa15/tradepile [status code] 401 [reason phrase] Unauthorized
+2015-01-19 15:05:50 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-19 15:05:50 [warn] Mode "Achat/Revente rapide" est désactivé.
+2015-01-19 15:05:50 [warn] Mode "Achat/Revente" classique est désactivé.
+2015-01-19 15:05:55 [erro] Connexion impossible
+2015-01-19 15:05:55 [erro] == Code 401, reason: Client error response [url] https://utas.s2.fut.ea.com/ut/game/fifa15/tradepile [status code] 401 [reason phrase] Unauthorized
+2015-01-22 23:23:45 [info] Configuration mise à jour: enable: 1, allow_quick: 0, allow_trade: 0, allow_sold: 1, allow_quick_buy: 0, allow_trade_buy: 0.
+2015-01-22 23:23:46 [info] Configuration mise à jour: enable: 1, allow_quick: 0, allow_trade: 0, allow_sold: 0, allow_quick_buy: 0, allow_trade_buy: 0.
+2015-01-22 23:23:47 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-22 23:23:47 [warn] Les achats réels en "Achat/Revente rapide" sont désactivés.
+2015-01-22 23:23:47 [warn] Les ventes réelles désactivées.
+2015-01-22 23:23:47 [warn] Mode "Achat/Revente rapide" est désactivé.
+2015-01-22 23:23:47 [warn] Mode "Achat/Revente" classique est désactivé.
+2015-01-22 23:23:54 [info] ====== Connexion réussie. [Credits: 9823]
+2015-01-22 23:24:00 [debu] Remis en vente - startingBid: 1000, buyNowPrice: 1600, discardValue: 304
+2015-01-22 23:24:00 [info] ====== Termine.
+2015-01-22 23:25:01 [info] Configuration mise à jour: enable: 1, allow_quick: 1, allow_trade: 0, allow_sold: 0, allow_quick_buy: 0, allow_trade_buy: 0.
+2015-01-22 23:25:02 [info] Configuration mise à jour: enable: 1, allow_quick: 1, allow_trade: 1, allow_sold: 0, allow_quick_buy: 0, allow_trade_buy: 0.
+2015-01-22 23:25:02 [info] Configuration mise à jour: enable: 1, allow_quick: 1, allow_trade: 1, allow_sold: 1, allow_quick_buy: 0, allow_trade_buy: 0.
+2015-01-22 23:25:03 [info] Configuration mise à jour: enable: 1, allow_quick: 1, allow_trade: 1, allow_sold: 1, allow_quick_buy: 1, allow_trade_buy: 0.
+2015-01-22 23:25:04 [info] Configuration mise à jour: enable: 1, allow_quick: 1, allow_trade: 1, allow_sold: 1, allow_quick_buy: 1, allow_trade_buy: 1.
+2015-01-22 23:25:11 [info] ====== Connexion réussie. [Credits: 9823]
+2015-01-22 23:25:24 [info] 3 joueurs sous-côtés trouvés.
+2015-01-22 23:25:24 [debu] Estimation bénef.: 12, tradeId: 153064755766, startingBid: 300, currentBid: 0, buyNowPrice: 500, nextBid: 300, discardValue: 312, expire: 64
+2015-01-22 23:25:24 [debu] Estimation bénef.: 4, tradeId: 153064762013, startingBid: 250, currentBid: 250, buyNowPrice: 400, nextBid: 300, discardValue: 304, expire: 66
+2015-01-22 23:25:24 [debu] Estimation bénef.: 12, tradeId: 153064783215, startingBid: 300, currentBid: 0, buyNowPrice: 400, nextBid: 300, discardValue: 312, expire: 71
+2015-01-22 23:25:24 [info] Quick buy réussi... attente fin des enchères.
+2015-01-22 23:25:28 [info] ====== Crédit: [9823 points], Budget: [7823 points]
+2015-01-22 23:25:38 [info] Remis en vente - startingBid: 1000, buyNowPrice: 1400, discardValue: 304
+2015-01-22 23:25:38 [info] ====== Termine.
+2015-01-22 23:27:42 [info] ====== Connexion réussie. [Credits: 9523]
+2015-01-22 23:27:56 [info] 4 joueurs sous-côtés trouvés.
+2015-01-22 23:27:56 [debu] Estimation bénef.: 4, tradeId: 153064889040, startingBid: 300, currentBid: 0, buyNowPrice: 450, nextBid: 300, discardValue: 304, expire: 61
+2015-01-22 23:27:56 [debu] Estimation bénef.: 8, tradeId: 153064849578, startingBid: 300, currentBid: 0, buyNowPrice: 600, nextBid: 300, discardValue: 308, expire: 73
+2015-01-22 23:27:56 [debu] Estimation bénef.: 4, tradeId: 153064905104, startingBid: 300, currentBid: 0, buyNowPrice: 350, nextBid: 300, discardValue: 304, expire: 72
+2015-01-22 23:27:56 [debu] Estimation bénef.: 12, tradeId: 153064868370, startingBid: 300, currentBid: 0, buyNowPrice: 350, nextBid: 300, discardValue: 312, expire: 76
+2015-01-22 23:27:56 [info] Quick buy réussi... attente fin des enchères.
+2015-01-22 23:28:00 [info] ====== Crédit: [9523 points], Budget: [7523 points]
+2015-01-22 23:28:05 [info] Revente rapide [+12] - tradeId: 153064783215, lastSalePrice: 300,  startingBid: 300, currentBid: 300, buyNowPrice: 400, discardValue: 312, expires: -1
+2015-01-22 23:28:10 [info] ====== Termine.
+2015-01-22 23:30:49 [info] ====== Connexion réussie. [Credits: 9535]
+2015-01-22 23:31:01 [info] 3 joueurs sous-côtés trouvés.
+2015-01-22 23:31:01 [debu] Estimation bénef.: 4, tradeId: 153064989331, startingBid: 300, currentBid: 0, buyNowPrice: 450, nextBid: 300, discardValue: 304, expire: 50
+2015-01-22 23:31:01 [debu] Estimation bénef.: 8, tradeId: 153059376075, startingBid: 600, currentBid: 0, buyNowPrice: 650, nextBid: 600, discardValue: 608, expire: 60
+2015-01-22 23:31:02 [debu] Estimation bénef.: 4, tradeId: 153064974992, startingBid: 150, currentBid: 250, buyNowPrice: 500, nextBid: 300, discardValue: 304, expire: 60
+2015-01-22 23:31:04 [info] ====== Crédit: [9535 points], Budget: [7535 points]
+2015-01-22 23:31:05 [info] Sous-cote - Achat - tradeId: 153065021188, Prix max: 650, nextBid: 650, startingBid: 150, currentBid: 600, buyNowPrice: 0, discardValue: 656, expires: 72
+2015-01-22 23:31:11 [info] Revente rapide [+12] - tradeId: 153064868370, lastSalePrice: 300,  startingBid: 300, currentBid: 300, buyNowPrice: 350, discardValue: 312, expires: -1
+2015-01-22 23:31:16 [info] ====== Termine.
+2015-01-22 23:32:54 [info] ====== Connexion réussie. [Credits: 9847]
+2015-01-22 23:33:06 [info] 3 joueurs sous-côtés trouvés.
+2015-01-22 23:33:06 [debu] Estimation bénef.: 4, tradeId: 153065091136, startingBid: 300, currentBid: 0, buyNowPrice: 350, nextBid: 300, discardValue: 304, expire: 45
+2015-01-22 23:33:06 [debu] Estimation bénef.: 4, tradeId: 153065061010, startingBid: 300, currentBid: 0, buyNowPrice: 450, nextBid: 300, discardValue: 304, expire: 55
+2015-01-22 23:33:06 [debu] Estimation bénef.: 4, tradeId: 153065101387, startingBid: 300, currentBid: 0, buyNowPrice: 400, nextBid: 300, discardValue: 304, expire: 69
+2015-01-22 23:33:09 [info] ====== Crédit: [9847 points], Budget: [7847 points]
+2015-01-22 23:33:19 [info] ====== Termine.
+2015-01-22 23:36:36 [info] ====== Connexion réussie. [Credits: 9847]
+2015-01-22 23:36:41 [info] ====== Connexion réussie. [Credits: 9847]
+2015-01-22 23:36:43 [info] ====== Connexion réussie. [Credits: 9847]
+2015-01-22 23:36:56 [info] 8 joueurs sous-côtés trouvés.
+2015-01-22 23:36:56 [debu] Estimation bénef.: 8, tradeId: 153065263230, startingBid: 300, currentBid: 0, buyNowPrice: 600, nextBid: 300, discardValue: 308, expire: 41
+2015-01-22 23:36:56 [debu] Estimation bénef.: 16, tradeId: 153065221050, startingBid: 300, currentBid: 0, buyNowPrice: 350, nextBid: 300, discardValue: 316, expire: 46
+2015-01-22 23:36:57 [debu] Estimation bénef.: 8, tradeId: 153065224294, startingBid: 300, currentBid: 0, buyNowPrice: 450, nextBid: 300, discardValue: 308, expire: 47
+2015-01-22 23:36:57 [debu] Estimation bénef.: 4, tradeId: 153065266784, startingBid: 300, currentBid: 0, buyNowPrice: 550, nextBid: 300, discardValue: 304, expire: 47
+2015-01-22 23:36:57 [debu] Estimation bénef.: 8, tradeId: 153065224360, startingBid: 300, currentBid: 0, buyNowPrice: 350, nextBid: 300, discardValue: 308, expire: 48
+2015-01-22 23:36:57 [debu] Estimation bénef.: 4, tradeId: 153065233539, startingBid: 300, currentBid: 0, buyNowPrice: 350, nextBid: 300, discardValue: 304, expire: 50
+2015-01-22 23:36:57 [debu] Estimation bénef.: 4, tradeId: 153065251856, startingBid: 300, currentBid: 0, buyNowPrice: 350, nextBid: 300, discardValue: 304, expire: 55
+2015-01-22 23:36:57 [info] Quick buy réussi... attente fin des enchères.
+2015-01-22 23:36:58 [debu] Estimation bénef.: 4, tradeId: 153065270397, startingBid: 300, currentBid: 0, buyNowPrice: 350, nextBid: 300, discardValue: 304, expire: 55
+2015-01-22 23:36:58 [info] Quick buy réussi... attente fin des enchères.
+2015-01-22 23:37:02 [info] ====== Crédit: [9847 points], Budget: [7847 points]
+2015-01-22 23:37:07 [erro] ID differents: ref: , profil: 192448
+2015-01-22 23:37:12 [info] ====== Termine.
+2015-01-22 23:44:42 [info] ====== Connexion réussie. [Credits: 9247]
+2015-01-22 23:44:57 [info] 1 joueurs sous-côtés trouvés.
+2015-01-22 23:44:57 [debu] Estimation bénef.: 4, tradeId: 153051493427, startingBid: 300, currentBid: 0, buyNowPrice: 500, nextBid: 300, discardValue: 304, expire: 52
+2015-01-22 23:45:00 [info] ====== Crédit: [9247 points], Budget: [7247 points]
+2015-01-22 23:45:05 [info] Revente rapide [+4] - tradeId: 153065251856, lastSalePrice: 300,  startingBid: 300, currentBid: 300, buyNowPrice: 350, discardValue: 304, expires: -1
+2015-01-22 23:45:07 [info] Revente rapide [+4] - tradeId: 153065270397, lastSalePrice: 300,  startingBid: 300, currentBid: 300, buyNowPrice: 350, discardValue: 304, expires: -1
+2015-01-22 23:45:12 [info] ====== Termine.
+2015-01-23 00:02:19 [info] ====== Connexion réussie. [Credits: 9855]
+2015-01-23 00:02:31 [info] 6 joueurs sous-côtés trouvés.
+2015-01-23 00:02:31 [debu] Estimation bénef.: 4, tradeId: 153066324890, startingBid: 300, currentBid: 0, buyNowPrice: 350, nextBid: 300, discardValue: 304, expire: 49
+2015-01-23 00:02:31 [debu] Estimation bénef.: 4, tradeId: 153066340273, startingBid: 300, currentBid: 0, buyNowPrice: 350, nextBid: 300, discardValue: 304, expire: 51
+2015-01-23 00:02:31 [debu] Estimation bénef.: 12, tradeId: 153066352974, startingBid: 300, currentBid: 0, buyNowPrice: 500, nextBid: 300, discardValue: 312, expire: 58
+2015-01-23 00:02:31 [debu] Estimation bénef.: 8, tradeId: 153066362198, startingBid: 300, currentBid: 0, buyNowPrice: 600, nextBid: 300, discardValue: 308, expire: 60
+2015-01-23 00:02:32 [debu] Estimation bénef.: 4, tradeId: 153066386948, startingBid: 300, currentBid: 0, buyNowPrice: 400, nextBid: 300, discardValue: 304, expire: 64
+2015-01-23 00:02:32 [debu] Estimation bénef.: 4, tradeId: 153066344182, startingBid: 300, currentBid: 0, buyNowPrice: 500, nextBid: 300, discardValue: 304, expire: 68
+2015-01-23 00:02:35 [info] ====== Crédit: [9855 points], Budget: [7855 points]
+2015-01-23 00:02:42 [info] ====== Termine.
+2015-01-23 00:14:51 [info] ====== Connexion réussie. [Credits: 9855]
+2015-01-23 00:15:05 [info] 2 joueurs sous-côtés trouvés.
+2015-01-23 00:15:05 [debu] Estimation bénef.: 8, tradeId: 153066856488, startingBid: 600, currentBid: 0, buyNowPrice: 650, nextBid: 600, discardValue: 608, expire: 55
+2015-01-23 00:15:06 [debu] Estimation bénef.: 16, tradeId: 153066889894, startingBid: 600, currentBid: 0, buyNowPrice: 700, nextBid: 600, discardValue: 616, expire: 56
+2015-01-23 00:15:08 [info] ====== Crédit: [9855 points], Budget: [7855 points]
+2015-01-23 00:15:16 [info] ====== Termine.
+2015-01-23 00:17:38 [info] ====== Connexion réussie. [Credits: 9855]
+2015-01-23 00:17:50 [info] 10 joueurs sous-côtés trouvés.
+2015-01-23 00:17:50 [debu] Estimation bénef.: 4, tradeId: 153067013996, startingBid: 300, currentBid: 0, buyNowPrice: 350, nextBid: 300, discardValue: 304, expire: 55
+2015-01-23 00:17:50 [debu] Estimation bénef.: 4, tradeId: 153066990091, startingBid: 300, currentBid: 0, buyNowPrice: 350, nextBid: 300, discardValue: 304, expire: 56
+2015-01-23 00:17:50 [debu] Estimation bénef.: 4, tradeId: 153067004905, startingBid: 300, currentBid: 0, buyNowPrice: 500, nextBid: 300, discardValue: 304, expire: 58
+2015-01-23 00:17:50 [debu] Estimation bénef.: 12, tradeId: 153066995791, startingBid: 300, currentBid: 0, buyNowPrice: 450, nextBid: 300, discardValue: 312, expire: 59
+2015-01-23 00:17:50 [debu] Estimation bénef.: 4, tradeId: 153067023581, startingBid: 300, currentBid: 0, buyNowPrice: 400, nextBid: 300, discardValue: 304, expire: 59
+2015-01-23 00:17:50 [debu] Estimation bénef.: 4, tradeId: 153066984387, startingBid: 300, currentBid: 0, buyNowPrice: 400, nextBid: 300, discardValue: 304, expire: 71
+2015-01-23 00:17:50 [debu] Estimation bénef.: 4, tradeId: 153067011749, startingBid: 300, currentBid: 0, buyNowPrice: 400, nextBid: 300, discardValue: 304, expire: 71
+2015-01-23 00:17:51 [debu] Estimation bénef.: 8, tradeId: 153067033003, startingBid: 300, currentBid: 0, buyNowPrice: 450, nextBid: 300, discardValue: 308, expire: 71
+2015-01-23 00:17:51 [debu] Estimation bénef.: 8, tradeId: 153067002362, startingBid: 300, currentBid: 0, buyNowPrice: 450, nextBid: 300, discardValue: 308, expire: 72
+2015-01-23 00:17:51 [debu] Estimation bénef.: 4, tradeId: 153067014787, startingBid: 300, currentBid: 0, buyNowPrice: 400, nextBid: 300, discardValue: 304, expire: 72
+2015-01-23 00:17:54 [info] ====== Crédit: [9855 points], Budget: [7855 points]
+2015-01-23 00:18:01 [info] ====== Termine.
+2015-01-23 09:17:18 [info] ====== Connexion réussie. [Credits: 9205]
+2015-01-23 09:17:33 [info] 1 joueurs sous-côtés trouvés.
+2015-01-23 09:17:33 [debu] Estimation bénef.: 8, tradeId: 153081444129, startingBid: 300, currentBid: 0, buyNowPrice: 400, nextBid: 300, discardValue: 308, expire: 109
+2015-01-23 09:17:33 [info] Quick buy réussi... attente fin des enchères.
+2015-01-23 09:17:37 [info] ====== Crédit: [9205 points], Budget: [7205 points]
+2015-01-23 09:17:44 [info] ====== Termine.
+2015-01-23 09:19:26 [info] ====== Connexion réussie. [Credits: 8905]
+2015-01-23 09:19:39 [info] 1 joueurs sous-côtés trouvés.
+2015-01-23 09:19:39 [debu] Estimation bénef.: 12, tradeId: 153061753294, startingBid: 300, currentBid: 0, buyNowPrice: 500, nextBid: 300, discardValue: 312, expire: 92
+2015-01-23 09:19:39 [info] Quick buy réussi... attente fin des enchères.
+2015-01-23 09:19:42 [info] ====== Crédit: [8905 points], Budget: [6905 points]
+2015-01-23 09:19:47 [info] Revente rapide [+8] - tradeId: 153081444129, lastSalePrice: 300,  startingBid: 300, currentBid: 300, buyNowPrice: 400, discardValue: 308, expires: -1
+2015-01-23 09:19:53 [info] ====== Termine.
+2015-01-23 09:22:46 [info] ====== Connexion réussie. [Credits: 8913]
+2015-01-23 09:22:57 [info] 2 joueurs sous-côtés trouvés.
+2015-01-23 09:22:57 [debu] Estimation bénef.: 4, tradeId: 153081593584, startingBid: 300, currentBid: 0, buyNowPrice: 400, nextBid: 300, discardValue: 304, expire: 63
+2015-01-23 09:22:58 [debu] Estimation bénef.: 16, tradeId: 153081569845, startingBid: 600, currentBid: 0, buyNowPrice: 700, nextBid: 600, discardValue: 616, expire: 77
+2015-01-23 09:23:00 [info] ====== Crédit: [8913 points], Budget: [6913 points]
+2015-01-23 09:23:05 [info] Revente rapide [+12] - tradeId: 153061753294, lastSalePrice: 300,  startingBid: 300, currentBid: 300, buyNowPrice: 500, discardValue: 312, expires: -1
+2015-01-23 09:23:10 [info] ====== Termine.
+2015-01-23 09:24:40 [info] ====== Connexion réussie. [Credits: 9225]
+2015-01-23 09:24:51 [info] 1 joueurs sous-côtés trouvés.
+2015-01-23 09:24:51 [debu] Estimation bénef.: 4, tradeId: 153081630084, startingBid: 300, currentBid: 0, buyNowPrice: 350, nextBid: 300, discardValue: 304, expire: 79
+2015-01-23 09:24:54 [info] ====== Crédit: [9225 points], Budget: [7225 points]
+2015-01-23 09:25:02 [info] ====== Termine.
+2015-01-23 13:55:00 [info] ====== Connexion réussie. [Credits: 9225]
+2015-01-23 13:55:15 [info] 0 joueurs sous-côtés trouvés.
+2015-01-23 13:55:18 [info] ====== Crédit: [9225 points], Budget: [7225 points]
+2015-01-23 13:55:27 [info] ====== Termine.
+2015-01-23 13:58:18 [info] ====== Connexion réussie. [Credits: 9225]
+2015-01-23 13:58:31 [info] 0 joueurs sous-côtés trouvés.
+2015-01-23 13:58:34 [info] ====== Crédit: [9225 points], Budget: [7225 points]
+2015-01-23 13:58:44 [info] ====== Termine.
+2015-01-23 15:38:55 [info] ====== Connexion réussie. [Credits: 9225]
+2015-01-23 15:39:07 [info] 0 joueurs sous-côtés trouvés.
+2015-01-23 15:39:10 [info] ====== Crédit: [9225 points], Budget: [7225 points]
+2015-01-23 15:39:21 [info] Remis en vente - startingBid: 1100, buyNowPrice: 1600, discardValue: 304
+2015-01-23 15:39:24 [info] Remis en vente - startingBid: 1100, buyNowPrice: 1600, discardValue: 656
+2015-01-23 15:39:24 [info] ====== Termine.
+2015-01-23 15:58:51 [info] ====== Connexion réussie. [Credits: 9225]
+2015-01-23 15:59:04 [info] 3 joueurs sous-côtés trouvés.
+2015-01-23 15:59:04 [debu] Estimation bénef.: 16, tradeId: 153094744936, startingBid: 600, currentBid: 0, buyNowPrice: 650, nextBid: 600, discardValue: 616, expire: 51
+2015-01-23 15:59:04 [debu] Estimation bénef.: 8, tradeId: 153094757768, startingBid: 600, currentBid: 0, buyNowPrice: 650, nextBid: 600, discardValue: 608, expire: 59
+2015-01-23 15:59:04 [debu] Estimation bénef.: 8, tradeId: 153094777092, startingBid: 600, currentBid: 0, buyNowPrice: 650, nextBid: 600, discardValue: 608, expire: 79
+2015-01-23 15:59:05 [info] Quick buy réussi... attente fin des enchères.
+2015-01-23 15:59:08 [info] ====== Crédit: [9225 points], Budget: [7225 points]
+2015-01-23 15:59:15 [info] ====== Termine.
+2015-01-23 16:03:41 [info] ====== Connexion réussie. [Credits: 8625]
+2015-01-23 16:03:53 [info] 2 joueurs sous-côtés trouvés.
+2015-01-23 16:03:53 [debu] Estimation bénef.: 8, tradeId: 153094949931, startingBid: 600, currentBid: 0, buyNowPrice: 650, nextBid: 600, discardValue: 608, expire: 45
+2015-01-23 16:03:53 [debu] Estimation bénef.: 16, tradeId: 153094956844, startingBid: 600, currentBid: 0, buyNowPrice: 650, nextBid: 600, discardValue: 616, expire: 63
+2015-01-23 16:03:56 [info] ====== Crédit: [8625 points], Budget: [6625 points]
+2015-01-23 16:04:01 [info] Revente rapide [+8] - tradeId: 153094777092, lastSalePrice: 600,  startingBid: 600, currentBid: 600, buyNowPrice: 650, discardValue: 608, expires: -1
+2015-01-23 16:04:06 [info] ====== Termine.
+2015-01-23 16:25:56 [info] ====== Connexion réussie. [Credits: 9233]
+2015-01-23 16:26:10 [info] 1 joueurs sous-côtés trouvés.
+2015-01-23 16:26:10 [debu] Estimation bénef.: 8, tradeId: 153095897274, startingBid: 600, currentBid: 0, buyNowPrice: 650, nextBid: 600, discardValue: 608, expire: 18
+2015-01-23 16:26:13 [info] ====== Crédit: [9233 points], Budget: [7233 points]
+2015-01-23 16:26:21 [info] ====== Termine.
+2015-01-23 17:07:03 [info] ====== Connexion réussie. [Credits: 9233]
+2015-01-23 17:07:20 [info] 2 joueurs sous-côtés trouvés.
+2015-01-23 17:07:20 [debu] Estimation bénef.: 8, tradeId: 153097686554, startingBid: 300, currentBid: 0, buyNowPrice: 600, nextBid: 300, discardValue: 308, expire: 39
+2015-01-23 17:07:20 [debu] Estimation bénef.: 4, tradeId: 153097684286, startingBid: 250, currentBid: 250, buyNowPrice: 350, nextBid: 300, discardValue: 304, expire: 48
+2015-01-23 17:07:23 [info] ====== Crédit: [9233 points], Budget: [7233 points]
+2015-01-23 17:07:36 [info] Remis en vente - startingBid: 1100, buyNowPrice: 1600, discardValue: 304
+2015-01-23 17:07:39 [info] Remis en vente - startingBid: 1100, buyNowPrice: 1600, discardValue: 656
+2015-01-23 17:07:39 [info] ====== Termine.
+2015-01-23 17:22:00 [info] ====== Connexion réussie. [Credits: 9233]
+2015-01-23 17:22:15 [info] 2 joueurs sous-côtés trouvés.
+2015-01-23 17:22:15 [debu] Estimation bénef.: 4, tradeId: 153098380374, startingBid: 300, currentBid: 0, buyNowPrice: 350, nextBid: 300, discardValue: 304, expire: 33
+2015-01-23 17:22:15 [debu] Estimation bénef.: 4, tradeId: 153098346643, startingBid: 300, currentBid: 0, buyNowPrice: 350, nextBid: 300, discardValue: 304, expire: 45
+2015-01-23 17:22:18 [info] ====== Crédit: [9233 points], Budget: [7233 points]
+2015-01-23 17:22:29 [info] ====== Termine.
+2015-01-23 23:02:36 [info] ====== Connexion réussie. [Credits: 8837]
+2015-01-23 23:02:49 [info] 0 joueurs sous-côtés trouvés.
+2015-01-23 23:02:52 [info] ====== Crédit: [8837 points], Budget: [6837 points]
+2015-01-23 23:03:02 [info] ====== Termine.
+2015-01-23 23:22:44 [info] ====== Connexion réussie. [Credits: 10132]
+2015-01-23 23:22:58 [info] 3 joueurs sous-côtés trouvés.
+2015-01-23 23:22:58 [debu] Estimation bénef.: 8, tradeId: 153114369566, startingBid: 300, currentBid: 0, buyNowPrice: 350, nextBid: 300, discardValue: 308, expire: 49
+2015-01-23 23:22:58 [debu] Estimation bénef.: 4, tradeId: 153114418437, startingBid: 300, currentBid: 0, buyNowPrice: 500, nextBid: 300, discardValue: 304, expire: 54
+2015-01-23 23:22:58 [debu] Estimation bénef.: 8, tradeId: 153114437418, startingBid: 600, currentBid: 0, buyNowPrice: 700, nextBid: 600, discardValue: 608, expire: 73
+2015-01-23 23:23:01 [info] ====== Crédit: [10132 points], Budget: [8132 points]
+2015-01-23 23:23:12 [erro] == Code 461, reason: Client error response [url] https://utas.s2.fut.ea.com/ut/game/fifa15/auctionhouse [status code] 461 [reason phrase] 461
+2015-01-24 00:57:27 [info] ====== Connexion réussie. [Credits: 10132]
+2015-01-24 00:57:40 [info] 6 joueurs sous-côtés trouvés.
+2015-01-24 00:57:40 [debu] Estimation bénef.: 4, tradeId: 153118496629, startingBid: 300, currentBid: 0, buyNowPrice: 350, nextBid: 300, discardValue: 304, expire: 52
+2015-01-24 00:57:40 [debu] Estimation bénef.: 12, tradeId: 153113292894, startingBid: 300, currentBid: 0, buyNowPrice: 450, nextBid: 300, discardValue: 312, expire: 61
+2015-01-24 00:57:40 [debu] Estimation bénef.: 4, tradeId: 153118549419, startingBid: 300, currentBid: 0, buyNowPrice: 350, nextBid: 300, discardValue: 304, expire: 71
+2015-01-24 00:57:40 [debu] Estimation bénef.: 8, tradeId: 153118500628, startingBid: 300, currentBid: 0, buyNowPrice: 350, nextBid: 300, discardValue: 308, expire: 73
+2015-01-24 00:57:41 [debu] Estimation bénef.: 8, tradeId: 153118543594, startingBid: 300, currentBid: 0, buyNowPrice: 350, nextBid: 300, discardValue: 308, expire: 82
+2015-01-24 00:57:41 [debu] Estimation bénef.: 8, tradeId: 153118553082, startingBid: 300, currentBid: 0, buyNowPrice: 350, nextBid: 300, discardValue: 308, expire: 85
+2015-01-24 00:57:41 [info] Quick buy réussi... attente fin des enchères.
+2015-01-24 00:57:45 [info] ====== Crédit: [10132 points], Budget: [8132 points]
+2015-01-24 00:57:55 [info] Remis en vente - startingBid: 1100, buyNowPrice: 1600, discardValue: 656
+2015-01-24 00:57:55 [info] ====== Termine.
+2015-01-24 01:02:46 [info] ====== Connexion réussie. [Credits: 9832]
+2015-01-24 01:02:58 [info] 2 joueurs sous-côtés trouvés.
+2015-01-24 01:02:58 [debu] Estimation bénef.: 8, tradeId: 153118739935, startingBid: 300, currentBid: 0, buyNowPrice: 350, nextBid: 300, discardValue: 308, expire: 78
+2015-01-24 01:02:59 [debu] Estimation bénef.: 4, tradeId: 153118718640, startingBid: 300, currentBid: 0, buyNowPrice: 350, nextBid: 300, discardValue: 304, expire: 80
+2015-01-24 01:03:01 [info] ====== Crédit: [9832 points], Budget: [7832 points]
+2015-01-24 01:03:06 [info] Revente rapide [+8] - tradeId: 153118553082, lastSalePrice: 300,  startingBid: 300, currentBid: 300, buyNowPrice: 350, discardValue: 308, expires: -1
+2015-01-24 01:03:11 [info] ====== Termine.
+2015-01-24 01:34:42 [info] ====== Connexion réussie. [Credits: 10140]
+2015-01-24 01:34:58 [info] 2 joueurs sous-côtés trouvés.
+2015-01-24 01:34:58 [debu] Estimation bénef.: 4, tradeId: 153119913962, startingBid: 300, currentBid: 0, buyNowPrice: 350, nextBid: 300, discardValue: 304, expire: 38
+2015-01-24 01:34:58 [debu] Estimation bénef.: 8, tradeId: 153119917954, startingBid: 600, currentBid: 0, buyNowPrice: 700, nextBid: 600, discardValue: 608, expire: 61
+2015-01-24 01:35:01 [info] ====== Crédit: [10140 points], Budget: [8140 points]
+2015-01-24 01:35:08 [info] ====== Termine.
+2015-01-24 12:02:04 [info] ====== Connexion réussie. [Credits: 11185]
+2015-01-24 12:02:17 [info] 0 joueurs sous-côtés trouvés.
+2015-01-24 12:02:20 [info] ====== Crédit: [11185 points], Budget: [9185 points]
+2015-01-24 12:02:27 [erro] == Code 461, reason: Client error response [url] https://utas.s2.fut.ea.com/ut/game/fifa15/auctionhouse [status code] 461 [reason phrase] 461
+2015-01-24 12:03:44 [info] ====== Connexion réussie. [Credits: 11185]
+2015-01-24 12:03:56 [info] 0 joueurs sous-côtés trouvés.
+2015-01-24 12:03:59 [info] ====== Crédit: [11185 points], Budget: [9185 points]
+2015-01-24 12:04:07 [info] ====== Termine.
+2015-01-24 12:17:51 [info] ====== Connexion réussie. [Credits: 11185]
+2015-01-24 12:18:02 [info] 3 joueurs sous-côtés trouvés.
+2015-01-24 12:18:02 [debu] Estimation bénef.: 4, tradeId: 153139573476, startingBid: 300, currentBid: 0, buyNowPrice: 350, nextBid: 300, discardValue: 304, expire: 35
+2015-01-24 12:18:03 [debu] Estimation bénef.: 4, tradeId: 153139539944, startingBid: 300, currentBid: 0, buyNowPrice: 350, nextBid: 300, discardValue: 304, expire: 52
+2015-01-24 12:18:03 [debu] Estimation bénef.: 4, tradeId: 153139540819, startingBid: 300, currentBid: 0, buyNowPrice: 350, nextBid: 300, discardValue: 304, expire: 74
+2015-01-24 12:18:03 [info] Quick buy réussi... attente fin des enchères.
+2015-01-24 12:18:06 [info] ====== Crédit: [11185 points], Budget: [9185 points]
+2015-01-24 12:18:14 [info] ====== Termine.
+2015-01-24 12:32:15 [info] ====== Connexion réussie. [Credits: 10885]
+2015-01-24 12:32:30 [info] 4 joueurs sous-côtés trouvés.
+2015-01-24 12:32:30 [debu] Estimation bénef.: 8, tradeId: 153140113786, startingBid: 300, currentBid: 0, buyNowPrice: 450, nextBid: 300, discardValue: 308, expire: 45
+2015-01-24 12:32:31 [debu] Estimation bénef.: 4, tradeId: 153140126122, startingBid: 300, currentBid: 0, buyNowPrice: 450, nextBid: 300, discardValue: 304, expire: 52
+2015-01-24 12:32:31 [debu] Estimation bénef.: 4, tradeId: 153140136085, startingBid: 300, currentBid: 0, buyNowPrice: 500, nextBid: 300, discardValue: 304, expire: 63
+2015-01-24 12:32:31 [debu] Estimation bénef.: 4, tradeId: 153140172385, startingBid: 300, currentBid: 0, buyNowPrice: 400, nextBid: 300, discardValue: 304, expire: 63
+2015-01-24 12:32:34 [info] ====== Crédit: [10885 points], Budget: [8885 points]
+2015-01-24 12:32:39 [info] Revente rapide [+4] - tradeId: 153139540819, lastSalePrice: 300,  startingBid: 300, currentBid: 300, buyNowPrice: 350, discardValue: 304, expires: -1
+2015-01-24 12:32:44 [info] ====== Termine.
+2015-01-24 13:23:58 [info] ====== Connexion réussie. [Credits: 11189]
+2015-01-24 13:24:17 [info] 5 joueurs sous-côtés trouvés.
+2015-01-24 13:24:17 [debu] Estimation bénef.: 8, tradeId: 153142306516, startingBid: 600, currentBid: 0, buyNowPrice: 650, nextBid: 600, discardValue: 608, expire: 55
+2015-01-24 13:24:17 [debu] Estimation bénef.: 12, tradeId: 153142264574, startingBid: 300, currentBid: 0, buyNowPrice: 450, nextBid: 300, discardValue: 312, expire: 59
+2015-01-24 13:24:17 [debu] Estimation bénef.: 4, tradeId: 153142274182, startingBid: 300, currentBid: 0, buyNowPrice: 350, nextBid: 300, discardValue: 304, expire: 65
+2015-01-24 13:24:17 [debu] Estimation bénef.: 8, tradeId: 153142277011, startingBid: 300, currentBid: 0, buyNowPrice: 350, nextBid: 300, discardValue: 308, expire: 65
+2015-01-24 13:24:17 [debu] Estimation bénef.: 4, tradeId: 153142283719, startingBid: 300, currentBid: 0, buyNowPrice: 550, nextBid: 300, discardValue: 304, expire: 70
+2015-01-24 13:24:20 [info] ====== Crédit: [11189 points], Budget: [9189 points]
+2015-01-24 13:24:21 [info] Sous-cote - Achat - tradeId: 153142322879, Prix max: 700, nextBid: 650, startingBid: 650, currentBid: 0, buyNowPrice: 0, discardValue: 656, expires: 54
+2015-01-24 13:24:23 [info] Sous-cote - Achat - tradeId: 153142319430, Prix max: 700, nextBid: 650, startingBid: 650, currentBid: 0, buyNowPrice: 0, discardValue: 656, expires: 47
+2015-01-24 13:24:31 [info] ====== Termine.
+2015-01-24 13:26:15 [info] ====== Connexion réussie. [Credits: 11189]
+2015-01-24 13:26:31 [info] 3 joueurs sous-côtés trouvés.
+2015-01-24 13:26:31 [debu] Estimation bénef.: 4, tradeId: 153142350579, startingBid: 300, currentBid: 0, buyNowPrice: 400, nextBid: 300, discardValue: 304, expire: 47
+2015-01-24 13:26:31 [debu] Estimation bénef.: 4, tradeId: 153142378589, startingBid: 300, currentBid: 0, buyNowPrice: 350, nextBid: 300, discardValue: 304, expire: 50
+2015-01-24 13:26:31 [debu] Estimation bénef.: 4, tradeId: 153142415355, startingBid: 300, currentBid: 0, buyNowPrice: 350, nextBid: 300, discardValue: 304, expire: 63
+2015-01-24 13:26:34 [info] ====== Crédit: [11189 points], Budget: [9189 points]
+2015-01-24 13:26:46 [info] ====== Termine.
+2015-01-24 13:27:31 [info] ====== Connexion réussie. [Credits: 11189]
+2015-01-24 13:27:44 [info] 2 joueurs sous-côtés trouvés.
+2015-01-24 13:27:44 [debu] Estimation bénef.: 4, tradeId: 153142423191, startingBid: 300, currentBid: 0, buyNowPrice: 500, nextBid: 300, discardValue: 304, expire: 45
+2015-01-24 13:27:44 [debu] Estimation bénef.: 4, tradeId: 153142433483, startingBid: 300, currentBid: 0, buyNowPrice: 350, nextBid: 300, discardValue: 304, expire: 60
+2015-01-24 13:27:47 [info] ====== Crédit: [11189 points], Budget: [9189 points]
+2015-01-24 13:27:55 [info] ====== Termine.
+2015-01-24 14:08:21 [info] ====== Connexion réussie. [Credits: 11189]
+2015-01-24 14:08:35 [info] 2 joueurs sous-côtés trouvés.
+2015-01-24 14:08:35 [debu] Estimation bénef.: 4, tradeId: 153144211541, startingBid: 300, currentBid: 0, buyNowPrice: 350, nextBid: 300, discardValue: 304, expire: 49
+2015-01-24 14:08:35 [debu] Estimation bénef.: 4, tradeId: 153144243209, startingBid: 300, currentBid: 0, buyNowPrice: 350, nextBid: 300, discardValue: 304, expire: 66
+2015-01-24 14:08:38 [info] ====== Crédit: [11189 points], Budget: [9189 points]
+2015-01-24 14:08:47 [info] ====== Termine.
+2015-01-24 17:04:58 [info] ====== Connexion réussie. [Credits: 11189]
+2015-01-24 17:05:12 [info] 1 joueurs sous-côtés trouvés.
+2015-01-24 17:05:12 [debu] Estimation bénef.: 4, tradeId: 153152182887, startingBid: 300, currentBid: 0, buyNowPrice: 400, nextBid: 300, discardValue: 304, expire: 53
+2015-01-24 17:05:15 [info] ====== Crédit: [11189 points], Budget: [9189 points]
+2015-01-24 17:05:25 [info] ====== Termine.
+2015-01-24 17:12:24 [info] ====== Connexion réussie. [Credits: 11189]
+2015-01-24 17:12:37 [info] 1 joueurs sous-côtés trouvés.
+2015-01-24 17:12:37 [debu] Estimation bénef.: 8, tradeId: 153152549504, startingBid: 600, currentBid: 0, buyNowPrice: 700, nextBid: 600, discardValue: 608, expire: 62
+2015-01-24 17:12:40 [info] ====== Crédit: [11189 points], Budget: [9189 points]
+2015-01-24 17:12:52 [info] ====== Termine.
+2015-01-24 17:16:15 [info] ====== Connexion réussie. [Credits: 11189]
+2015-01-24 17:16:29 [info] 0 joueurs sous-côtés trouvés.
+2015-01-24 17:16:32 [info] ====== Crédit: [11189 points], Budget: [9189 points]
+2015-01-24 17:16:39 [info] ====== Termine.
+2015-01-24 17:19:43 [info] ====== Connexion réussie. [Credits: 11189]
+2015-01-24 17:19:55 [info] 1 joueurs sous-côtés trouvés.
+2015-01-24 17:19:55 [debu] Estimation bénef.: 8, tradeId: 153152843141, startingBid: 600, currentBid: 0, buyNowPrice: 650, nextBid: 600, discardValue: 608, expire: 72
+2015-01-24 17:19:58 [info] ====== Crédit: [11189 points], Budget: [9189 points]
+2015-01-24 17:20:05 [info] ====== Termine.
+2015-01-24 17:22:02 [info] Configuration mise à jour: enable: 1, allow_quick: 1, allow_trade: 1, allow_sold: 1, allow_quick_buy: 0, allow_trade_buy: 1.
+2015-01-24 17:22:05 [info] Configuration mise à jour: enable: 1, allow_quick: 1, allow_trade: 1, allow_sold: 1, allow_quick_buy: 0, allow_trade_buy: 0.
+2015-01-24 17:22:28 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-24 17:22:28 [warn] Les achats réels en "Achat/Revente rapide" sont désactivés.
+2015-01-24 17:22:35 [info] ====== Connexion réussie. [Credits: 11189]
+2015-01-24 17:22:47 [info] 0 joueurs sous-côtés trouvés.
+2015-01-24 17:22:49 [info] ====== Crédit: [11189 points], Budget: [9189 points]
+2015-01-24 17:22:50 [info] Sous-cote - Achat - tradeId: 153153072109, Prix max: 700, nextBid: 050, startingBid: 10000, currentBid: 10000, buyNowPrice: 12500, discardValue: 688, expires: 177
+2015-01-24 17:22:57 [info] ====== Termine.
+2015-01-24 17:24:07 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-24 17:24:07 [warn] Les achats réels en "Achat/Revente rapide" sont désactivés.
+2015-01-24 17:24:13 [info] ====== Connexion réussie. [Credits: 11189]
+2015-01-24 17:24:27 [info] 2 joueurs sous-côtés trouvés.
+2015-01-24 17:24:27 [debu] Estimation bénef.: 4, tradeId: 153153055468, startingBid: 300, currentBid: 0, buyNowPrice: 600, nextBid: 300, discardValue: 304, expire: 54
+2015-01-24 17:24:27 [debu] Estimation bénef.: 4, tradeId: 153153026193, startingBid: 300, currentBid: 0, buyNowPrice: 350, nextBid: 300, discardValue: 304, expire: 69
+2015-01-24 17:24:30 [info] ====== Crédit: [11189 points], Budget: [9189 points]
+2015-01-24 17:24:37 [info] ====== Termine.
+2015-01-24 17:29:52 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-24 17:29:52 [warn] Les achats réels en "Achat/Revente rapide" sont désactivés.
+2015-01-24 17:29:59 [info] ====== Connexion réussie. [Credits: 11189]
+2015-01-24 17:30:10 [info] 2 joueurs sous-côtés trouvés.
+2015-01-24 17:30:10 [debu] Estimation bénef.: 4, tradeId: 153153327468, startingBid: 300, currentBid: 0, buyNowPrice: 400, nextBid: 300, discardValue: 304, expire: 52
+2015-01-24 17:30:10 [debu] Estimation bénef.: 4, tradeId: 153153282148, startingBid: 300, currentBid: 0, buyNowPrice: 500, nextBid: 300, discardValue: 304, expire: 61
+2015-01-24 17:30:13 [info] ====== Crédit: [11189 points], Budget: [9189 points]
+2015-01-24 17:30:14 [erro] ID differents: ref: 53578, profil: 199767
+2015-01-24 17:30:18 [info] ====== Termine.
+2015-01-24 17:33:11 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-24 17:33:11 [warn] Les achats réels en "Achat/Revente rapide" sont désactivés.
+2015-01-24 17:33:17 [info] ====== Connexion réussie. [Credits: 11189]
+2015-01-24 17:33:31 [info] 0 joueurs sous-côtés trouvés.
+2015-01-24 17:33:34 [info] ====== Crédit: [11189 points], Budget: [9189 points]
+2015-01-24 17:33:35 [info] Sous-cote - Achat - tradeId: 153153737783, Prix max: 650, nextBid: 300, startingBid: 300, currentBid: 0, buyNowPrice: 0, discardValue: 304, expires: 365
+2015-01-24 17:33:42 [info] ====== Termine.
+2015-01-24 17:34:58 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-24 17:34:58 [warn] Les achats réels en "Achat/Revente rapide" sont désactivés.
+2015-01-24 17:35:04 [info] ====== Connexion réussie. [Credits: 11189]
+2015-01-24 17:35:16 [info] 0 joueurs sous-côtés trouvés.
+2015-01-24 17:35:19 [info] ====== Crédit: [11189 points], Budget: [9189 points]
+2015-01-24 17:35:26 [info] ====== Termine.
+2015-01-24 17:44:22 [warn] Les achats réels en "Achat/Revente" classique sont désactivés.
+2015-01-24 17:44:22 [warn] Les achats réels en "Achat/Revente rapide" sont désactivés.
+2015-01-24 17:44:28 [info] ====== Connexion réussie. [Credits: 11189]
+2015-01-24 17:44:42 [info] 3 joueurs sous-côtés trouvés.
+2015-01-24 17:44:42 [debu] Estimation bénef.: 4, tradeId: 153153954104, startingBid: 300, currentBid: 0, buyNowPrice: 400, nextBid: 300, discardValue: 304, expire: 46
+2015-01-24 17:44:42 [debu] Estimation bénef.: 4, tradeId: 153154011938, startingBid: 150, currentBid: 250, buyNowPrice: 650, nextBid: 300, discardValue: 304, expire: 49
+2015-01-24 17:44:42 [debu] Estimation bénef.: 8, tradeId: 153154028654, startingBid: 300, currentBid: 0, buyNowPrice: 400, nextBid: 300, discardValue: 308, expire: 67
+2015-01-24 17:44:45 [info] ====== Crédit: [11189 points], Budget: [9189 points]
+2015-01-24 17:44:52 [info] ====== Termine.
+2015-01-24 17:52:56 [info] Configuration mise à jour: enable: 1, allow_quick: 1, allow_trade: 1, allow_sold: 1, allow_quick_buy: 1, allow_trade_buy: 0.
+2015-01-24 17:52:58 [info] Configuration mise à jour: enable: 1, allow_quick: 1, allow_trade: 1, allow_sold: 1, allow_quick_buy: 1, allow_trade_buy: 1.
+2015-01-24 17:53:18 [info] ====== Connexion réussie. [Credits: 11189]
+2015-01-24 17:53:31 [info] 2 joueurs sous-côtés trouvés.
+2015-01-24 17:53:31 [debu] Estimation bénef.: 4, tradeId: 152996172332, startingBid: 300, currentBid: 0, buyNowPrice: 450, nextBid: 300, discardValue: 304, expire: 54
+2015-01-24 17:53:31 [debu] Estimation bénef.: 8, tradeId: 153154444706, startingBid: 300, currentBid: 0, buyNowPrice: 400, nextBid: 300, discardValue: 308, expire: 67
+2015-01-24 17:53:34 [info] ====== Crédit: [11189 points], Budget: [9189 points]
+2015-01-24 17:53:41 [info] ====== Termine.
+2015-01-25 00:16:14 [info] ====== Connexion réussie. [Credits: 11189]
+2015-01-25 00:16:28 [info] 1 joueurs sous-côtés trouvés.
+2015-01-25 00:16:28 [debu] Estimation bénef.: 8, tradeId: 153171771178, startingBid: 300, currentBid: 0, buyNowPrice: 500, nextBid: 300, discardValue: 308, expire: 50
+2015-01-25 00:16:31 [info] ====== Crédit: [11189 points], Budget: [9189 points]
+2015-01-25 00:16:38 [info] ====== Termine.
+2015-01-26 18:05:59 [info] ====== Connexion réussie. [Credits: 11189]
+2015-01-26 18:06:11 [info] 0 joueurs sous-côtés trouvés.
+2015-01-26 18:06:14 [info] ====== Crédit: [11189 points], Budget: [9189 points]
+2015-01-26 18:06:23 [info] ====== Termine.
+2015-01-26 18:10:39 [info] ====== Connexion réussie. [Credits: 11189]
+2015-01-26 18:10:50 [info] 7 joueurs sous-côtés trouvés.
+2015-01-26 18:10:50 [debu] Estimation bénef.: 16, tradeId: 153265495985, startingBid: 300, currentBid: 0, buyNowPrice: 500, nextBid: 300, discardValue: 316, expire: 49
+2015-01-26 18:10:50 [debu] Estimation bénef.: 12, tradeId: 153265520397, startingBid: 300, currentBid: 0, buyNowPrice: 350, nextBid: 300, discardValue: 312, expire: 55
+2015-01-26 18:10:50 [debu] Estimation bénef.: 8, tradeId: 153265533166, startingBid: 300, currentBid: 0, buyNowPrice: 600, nextBid: 300, discardValue: 308, expire: 59
+2015-01-26 18:10:50 [debu] Estimation bénef.: 16, tradeId: 153265545493, startingBid: 300, currentBid: 0, buyNowPrice: 600, nextBid: 300, discardValue: 316, expire: 59
+2015-01-26 18:10:50 [debu] Estimation bénef.: 4, tradeId: 153265514630, startingBid: 300, currentBid: 0, buyNowPrice: 400, nextBid: 300, discardValue: 304, expire: 60
+2015-01-26 18:10:50 [debu] Estimation bénef.: 4, tradeId: 153265523930, startingBid: 300, currentBid: 0, buyNowPrice: 350, nextBid: 300, discardValue: 304, expire: 61
+2015-01-26 18:10:50 [debu] Estimation bénef.: 4, tradeId: 153265542433, startingBid: 300, currentBid: 0, buyNowPrice: 400, nextBid: 300, discardValue: 304, expire: 60
+2015-01-26 18:10:53 [info] ====== Crédit: [11189 points], Budget: [9189 points]
+2015-01-26 18:11:03 [info] ====== Termine.
+2015-01-26 18:13:27 [info] ====== Connexion réussie. [Credits: 11189]
+2015-01-26 18:13:40 [info] 3 joueurs sous-côtés trouvés.
+2015-01-26 18:13:40 [debu] Estimation bénef.: 4, tradeId: 153265673879, startingBid: 300, currentBid: 0, buyNowPrice: 350, nextBid: 300, discardValue: 304, expire: 48
+2015-01-26 18:13:40 [debu] Estimation bénef.: 4, tradeId: 153265686126, startingBid: 300, currentBid: 0, buyNowPrice: 400, nextBid: 300, discardValue: 304, expire: 55
+2015-01-26 18:13:40 [debu] Estimation bénef.: 4, tradeId: 153265698812, startingBid: 300, currentBid: 0, buyNowPrice: 400, nextBid: 300, discardValue: 304, expire: 61
+2015-01-26 18:13:43 [info] ====== Crédit: [11189 points], Budget: [9189 points]
+2015-01-26 18:13:50 [info] ====== Termine.
+2015-01-26 18:19:49 [info] ====== Connexion réussie. [Credits: 11189]
+2015-01-26 18:19:59 [info] 3 joueurs sous-côtés trouvés.
+2015-01-26 18:19:59 [debu] Estimation bénef.: 4, tradeId: 153265953328, startingBid: 250, currentBid: 250, buyNowPrice: 400, nextBid: 300, discardValue: 304, expire: 21
+2015-01-26 18:19:59 [debu] Estimation bénef.: 4, tradeId: 153265977762, startingBid: 300, currentBid: 0, buyNowPrice: 350, nextBid: 300, discardValue: 304, expire: 25
+2015-01-26 18:19:59 [debu] Estimation bénef.: 24, tradeId: 153265988144, startingBid: 600, currentBid: 0, buyNowPrice: 700, nextBid: 600, discardValue: 624, expire: 46
+2015-01-26 18:20:02 [info] ====== Crédit: [11189 points], Budget: [9189 points]
+2015-01-26 18:20:02 [info] Sous-cote - Achat - tradeId: 153266021896, Prix max: 700, nextBid: 650, startingBid: 550, currentBid: 600, buyNowPrice: 0, discardValue: 656, expires: 52
+2015-01-26 18:20:10 [info] ====== Termine.
+2015-01-26 18:21:17 [info] ====== Connexion réussie. [Credits: 11189]
+2015-01-26 18:21:27 [info] 2 joueurs sous-côtés trouvés.
+2015-01-26 18:21:27 [debu] Estimation bénef.: 4, tradeId: 153266057445, startingBid: 300, currentBid: 0, buyNowPrice: 400, nextBid: 300, discardValue: 304, expire: 18
+2015-01-26 18:21:27 [debu] Estimation bénef.: 8, tradeId: 153266072607, startingBid: 300, currentBid: 0, buyNowPrice: 400, nextBid: 300, discardValue: 308, expire: 20
+2015-01-26 18:21:30 [info] ====== Crédit: [11189 points], Budget: [9189 points]
+2015-01-26 18:21:40 [info] ====== Termine.
+2015-01-26 18:23:11 [info] ====== Connexion réussie. [Credits: 11189]
+2015-01-26 18:23:21 [info] 6 joueurs sous-côtés trouvés.
+2015-01-26 18:23:21 [debu] Estimation bénef.: 8, tradeId: 153266138698, startingBid: 300, currentBid: 0, buyNowPrice: 500, nextBid: 300, discardValue: 308, expire: 54
+2015-01-26 18:23:21 [debu] Estimation bénef.: 4, tradeId: 153266166390, startingBid: 300, currentBid: 0, buyNowPrice: 500, nextBid: 300, discardValue: 304, expire: 59
+2015-01-26 18:23:22 [debu] Estimation bénef.: 4, tradeId: 153266172781, startingBid: 150, currentBid: 250, buyNowPrice: 500, nextBid: 300, discardValue: 304, expire: 63
+2015-01-26 18:23:22 [debu] Estimation bénef.: 4, tradeId: 153266178924, startingBid: 300, currentBid: 0, buyNowPrice: 500, nextBid: 300, discardValue: 304, expire: 63
+2015-01-26 18:23:22 [debu] Estimation bénef.: 8, tradeId: 153266185165, startingBid: 300, currentBid: 0, buyNowPrice: 350, nextBid: 300, discardValue: 308, expire: 64
+2015-01-26 18:23:22 [debu] Estimation bénef.: 4, tradeId: 153266191032, startingBid: 300, currentBid: 0, buyNowPrice: 400, nextBid: 300, discardValue: 304, expire: 67
+2015-01-26 18:23:22 [info] Quick buy réussi... attente fin des enchères.
+2015-01-26 18:23:26 [info] ====== Crédit: [11189 points], Budget: [9189 points]
+2015-01-26 18:23:33 [info] ====== Termine.
